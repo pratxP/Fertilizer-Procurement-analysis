@@ -91,11 +91,12 @@ This repository contains a detailed analysis of fertilizer procurement data visu
 - Line Charts: Monthly demand trends and procurement cost variations.
 - Pie Charts: Supplier contribution to total costs and product category distribution.
 - Tables: Supplier performance and procurement cycle times.
-![Screenshot 2025-01-11 143007](https://github.com/user-attachments/assets/ef3614e2-8399-42c0-9754-9701a3231661)
-![Screenshot 2025-01-11 143022](https://github.com/user-attachments/assets/0d6ed7c9-362f-4467-810b-4c1322d80f3c)
+  
 ![Screenshot 2025-01-11 143034](https://github.com/user-attachments/assets/352aedf3-7b1c-4f4d-8a09-7afc5cd3b1a5)
 ![Screenshot 2025-01-11 142955](https://github.com/user-attachments/assets/da19acac-bf22-4e30-9c15-5abc91cd0767)
 ![Screenshot 2025-01-11 143004](https://github.com/user-attachments/assets/6ec17ca3-8d3a-4487-af39-916b02b56cc6)
+![Screenshot 2025-01-11 143007](https://github.com/user-attachments/assets/ef3614e2-8399-42c0-9754-9701a3231661)
+![Screenshot 2025-01-11 143022](https://github.com/user-attachments/assets/0d6ed7c9-362f-4467-810b-4c1322d80f3c)
 
 
 
