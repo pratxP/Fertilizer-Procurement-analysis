@@ -81,3 +81,16 @@ This repository contains a detailed analysis of fertilizer procurement data visu
 - **Total Procurement Cost**: Sum of total costs across the dataset.  
   ```DAX
   Total procurement cost = SUM('fertilizer_procurement_data (1)'[Total Cost])
+
+---
+
+### Visualizations
+**The analysis includes interactive Power BI dashboards featuring:**
+
+- Bar Charts: Breakdown of costs by region and product category.
+- Line Charts: Monthly demand trends and procurement cost variations.
+- Pie Charts: Supplier contribution to total costs and product category distribution.
+- Tables: Supplier performance and procurement cycle times.
+
+
+
