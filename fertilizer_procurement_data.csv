@@ -1,0 +1,701 @@
+Date,Product Category,Product Name,Supplier Name,Quantity Ordered,Unit Price,Total Cost,Region,Lead Time (Days),Order Status,Purchase Order ID,Supplier Rating,Monthly Demand Forecast,Warehouse Location,Currency
+2024-11-23,Additives,Potash,Supplier C,432,3.75,1620.0,South America,30,Delivered,PO37770,3.7,1314,Warehouse X,USD
+2024-02-27,Minerals,Urea,Supplier C,1254,7.29,9141.66,Asia,15,Ordered,PO36712,4.3,802,Warehouse Y,USD
+2024-01-13,Additives,Phosphate,Supplier D,592,3.11,1841.12,Europe,18,Delivered,PO81620,3.1,1966,Warehouse Z,GBP
+2024-05-20,Minerals,Sulfur,Supplier B,1260,6.9,8694.0,Asia,10,Delivered,PO78585,3.4,1375,Warehouse Y,GBP
+2024-05-05,Solvents,Sulfur,Supplier D,1809,7.33,13259.97,South America,5,Delivered,PO43902,3.3,1257,Warehouse Y,USD
+2024-04-24,Solvents,Sulfur,Supplier C,1839,1.01,1857.39,Africa,15,Delivered,PO81932,4.2,1290,Warehouse Z,USD
+2024-03-12,Chemicals,Phosphate,Supplier D,896,5.29,4739.84,Europe,12,Delivered,PO73311,4.5,1263,Warehouse X,JPY
+2024-02-22,Additives,Ammonium Nitrate,Supplier A,1486,2.19,3254.34,South America,30,Ordered,PO91663,4.6,524,Warehouse Y,JPY
+2024-12-12,Solvents,Sulfur,Supplier A,1936,3.04,5885.44,Europe,12,In Transit,PO28526,4.5,1082,Warehouse X,USD
+2024-10-06,Solvents,Sulfur,Supplier B,1207,7.12,8593.84,Asia,27,In Transit,PO97590,4.3,1206,Warehouse Y,JPY
+2024-02-14,Chemicals,Phosphate,Supplier D,779,1.08,841.32,South America,28,In Transit,PO12410,3.9,1219,Warehouse Y,USD
+2024-10-29,Chemicals,Ammonium Nitrate,Supplier D,886,7.26,6432.36,Asia,25,Delivered,PO59362,3.6,1130,Warehouse Z,JPY
+2024-08-04,Additives,Sulfur,Supplier D,1647,8.35,13752.45,Europe,18,Delivered,PO86415,4.2,1412,Warehouse Y,USD
+2024-01-17,Minerals,Sulfur,Supplier D,1614,9.89,15962.46,North America,13,In Transit,PO96969,3.9,1648,Warehouse Y,INR
+2024-01-16,Additives,Ammonium Nitrate,Supplier B,386,4.8,1852.8,Africa,16,Delivered,PO79048,3.4,679,Warehouse X,USD
+2024-02-17,Minerals,Potash,Supplier C,1718,2.19,3762.42,Asia,9,In Transit,PO15699,4.8,941,Warehouse Z,INR
+2024-04-21,Chemicals,Potash,Supplier E,1511,1.64,2478.04,Europe,26,Ordered,PO43483,3.6,1990,Warehouse Z,EUR
+2024-04-29,Organic Materials,Sulfur,Supplier B,1583,4.45,7044.35,South America,28,In Transit,PO32324,4.6,1409,Warehouse X,INR
+2024-09-15,Additives,Urea,Supplier C,260,7.58,1970.8,Asia,15,Delivered,PO17878,4.4,1351,Warehouse Z,EUR
+2024-11-04,Organic Materials,Ammonium Nitrate,Supplier C,1125,1.92,2160.0,Europe,20,In Transit,PO47226,4.8,1406,Warehouse Z,GBP
+2024-01-14,Minerals,Ammonium Nitrate,Supplier C,1626,3.82,6211.32,North America,19,In Transit,PO36305,4.9,1091,Warehouse X,JPY
+2024-10-14,Additives,Urea,Supplier D,808,8.93,7215.44,Asia,19,Delivered,PO90997,4.4,835,Warehouse Z,GBP
+2024-04-11,Organic Materials,Ammonium Nitrate,Supplier B,209,2.23,466.07,Europe,16,Ordered,PO45557,4.8,1990,Warehouse Z,USD
+2024-11-28,Organic Materials,Phosphate,Supplier C,300,7.96,2388.0,Asia,29,Ordered,PO16957,5.0,1368,Warehouse X,INR
+2024-12-25,Additives,Ammonium Nitrate,Supplier E,995,7.78,7741.1,Europe,14,Delivered,PO70943,4.2,1992,Warehouse Y,EUR
+2024-10-06,Organic Materials,Ammonium Nitrate,Supplier E,575,2.2,1265.0,Africa,20,In Transit,PO95820,4.2,1348,Warehouse Z,EUR
+2024-08-02,Additives,Ammonium Nitrate,Supplier A,1817,9.94,18060.98,Europe,22,In Transit,PO11092,4.0,785,Warehouse Y,INR
+2024-04-22,Organic Materials,Potash,Supplier C,255,2.29,583.95,Europe,8,Delivered,PO18729,4.7,1702,Warehouse Y,USD
+2024-08-17,Chemicals,Phosphate,Supplier B,797,5.77,4598.69,Europe,10,Delivered,PO60940,4.7,1724,Warehouse Z,INR
+2024-10-28,Additives,Ammonium Nitrate,Supplier D,1339,1.08,1446.12,South America,25,Delivered,PO96556,3.1,676,Warehouse Z,GBP
+2024-05-22,Chemicals,Phosphate,Supplier A,1674,6.85,11466.9,Europe,24,In Transit,PO45561,4.8,794,Warehouse Y,GBP
+2024-01-04,Solvents,Phosphate,Supplier C,1357,4.96,6730.72,Africa,7,Ordered,PO96898,4.9,925,Warehouse Z,USD
+2024-03-22,Chemicals,Phosphate,Supplier D,1319,7.5,9892.5,North America,13,Ordered,PO96520,3.0,1121,Warehouse X,INR
+2024-12-23,Organic Materials,Urea,Supplier B,912,6.65,6064.8,Africa,9,Ordered,PO57214,4.1,1472,Warehouse Z,GBP
+2024-08-04,Minerals,Ammonium Nitrate,Supplier B,1684,2.36,3974.24,North America,22,In Transit,PO24141,5.0,1575,Warehouse X,EUR
+2024-06-23,Chemicals,Potash,Supplier A,768,4.71,3617.28,South America,11,Ordered,PO12500,3.2,1186,Warehouse Y,EUR
+2024-05-22,Chemicals,Potash,Supplier A,160,7.18,1148.8,South America,13,In Transit,PO48337,3.6,635,Warehouse Y,JPY
+2024-03-20,Chemicals,Potash,Supplier C,1398,8.74,12218.52,South America,28,In Transit,PO95119,3.1,1709,Warehouse X,INR
+2024-04-20,Minerals,Potash,Supplier D,659,1.78,1173.02,North America,25,Delivered,PO60662,3.9,1269,Warehouse Y,USD
+2024-06-21,Minerals,Ammonium Nitrate,Supplier E,1704,1.9,3237.6,Africa,7,In Transit,PO40299,4.2,681,Warehouse Y,EUR
+2024-02-22,Chemicals,Potash,Supplier D,1022,7.77,7940.94,Asia,28,Delivered,PO59899,4.3,513,Warehouse Y,EUR
+2024-02-17,Solvents,Phosphate,Supplier B,1104,6.31,6966.24,South America,7,In Transit,PO76655,4.4,1338,Warehouse X,GBP
+2024-07-13,Minerals,Urea,Supplier B,567,4.46,2528.82,North America,5,Delivered,PO23055,3.8,1808,Warehouse X,EUR
+2024-02-19,Minerals,Sulfur,Supplier C,828,9.67,8006.76,Africa,21,Delivered,PO51347,3.9,1059,Warehouse Y,INR
+2024-07-02,Minerals,Potash,Supplier E,1232,3.83,4718.56,South America,25,In Transit,PO73525,3.4,1348,Warehouse X,INR
+2024-06-25,Additives,Sulfur,Supplier C,868,2.26,1961.68,Europe,5,In Transit,PO88263,3.3,858,Warehouse X,JPY
+2024-11-05,Chemicals,Sulfur,Supplier B,984,3.49,3434.16,Africa,23,In Transit,PO79672,3.3,1638,Warehouse Y,GBP
+2024-05-15,Solvents,Sulfur,Supplier B,480,1.76,844.8,North America,23,In Transit,PO21537,4.1,1446,Warehouse Z,INR
+2024-01-23,Minerals,Phosphate,Supplier D,1492,5.98,8922.16,Asia,17,Delivered,PO34434,4.7,1954,Warehouse Y,INR
+2024-08-23,Additives,Potash,Supplier E,1299,6.4,8313.6,Asia,29,Delivered,PO36066,3.7,1663,Warehouse Z,GBP
+2024-10-01,Organic Materials,Ammonium Nitrate,Supplier D,1453,6.47,9400.91,Asia,23,Delivered,PO75621,3.8,780,Warehouse Y,GBP
+2024-03-04,Organic Materials,Phosphate,Supplier D,878,8.01,7032.78,Europe,11,In Transit,PO70029,3.6,908,Warehouse X,GBP
+2024-07-12,Minerals,Ammonium Nitrate,Supplier C,275,7.21,1982.75,Africa,6,In Transit,PO83490,4.7,880,Warehouse Y,GBP
+2024-02-10,Solvents,Potash,Supplier D,1681,8.63,14507.03,South America,22,Ordered,PO12816,3.3,1281,Warehouse X,JPY
+2024-10-09,Solvents,Phosphate,Supplier A,1366,6.93,9466.38,Africa,13,Ordered,PO15210,3.0,1092,Warehouse Y,EUR
+2024-05-30,Chemicals,Sulfur,Supplier A,704,3.71,2611.84,Asia,22,Ordered,PO42426,4.3,1634,Warehouse Y,USD
+2024-11-17,Minerals,Phosphate,Supplier D,1734,5.66,9814.44,Europe,22,Ordered,PO79391,3.3,1504,Warehouse Z,GBP
+2024-11-12,Organic Materials,Phosphate,Supplier E,604,5.59,3376.36,Asia,20,Delivered,PO49967,4.8,586,Warehouse Y,INR
+2024-07-04,Chemicals,Potash,Supplier D,1560,7.73,12058.8,North America,25,Ordered,PO53721,4.3,1118,Warehouse Y,USD
+2024-10-22,Solvents,Sulfur,Supplier B,250,3.66,915.0,Africa,29,Delivered,PO74216,4.9,1698,Warehouse Z,JPY
+2024-04-08,Chemicals,Sulfur,Supplier B,268,1.49,399.32,Europe,9,In Transit,PO61563,3.3,1122,Warehouse Y,USD
+2024-12-26,Organic Materials,Urea,Supplier E,648,9.08,5883.84,Asia,16,Delivered,PO30578,3.3,1511,Warehouse X,USD
+2024-02-05,Solvents,Urea,Supplier C,415,9.59,3979.85,Europe,17,Delivered,PO12408,4.6,1645,Warehouse X,EUR
+2024-01-24,Additives,Ammonium Nitrate,Supplier A,878,5.45,4785.1,North America,12,Delivered,PO55453,4.7,1449,Warehouse Z,EUR
+2024-12-04,Additives,Urea,Supplier A,1557,2.01,3129.57,North America,29,Ordered,PO99694,4.8,959,Warehouse Y,GBP
+2024-04-26,Minerals,Potash,Supplier C,1705,5.5,9377.5,Africa,23,Ordered,PO56125,4.4,554,Warehouse Z,INR
+2024-05-28,Chemicals,Phosphate,Supplier D,1398,6.35,8877.3,Europe,28,Ordered,PO56580,4.9,505,Warehouse X,GBP
+2024-02-10,Solvents,Sulfur,Supplier E,415,5.75,2386.25,Asia,14,In Transit,PO91950,4.2,815,Warehouse Y,USD
+2024-04-29,Minerals,Phosphate,Supplier D,1614,9.8,15817.2,Asia,9,Ordered,PO49626,3.9,1037,Warehouse Y,GBP
+2024-02-21,Chemicals,Potash,Supplier C,897,9.88,8862.36,South America,19,Ordered,PO40959,3.8,1114,Warehouse Z,USD
+2024-07-13,Organic Materials,Phosphate,Supplier E,748,9.41,7038.68,Asia,21,Ordered,PO75700,4.6,1811,Warehouse Z,INR
+2024-05-22,Solvents,Sulfur,Supplier A,838,2.19,1835.22,Africa,21,In Transit,PO46159,3.8,1803,Warehouse Z,JPY
+2024-08-20,Chemicals,Urea,Supplier A,318,8.75,2782.5,North America,7,Delivered,PO18127,3.5,1467,Warehouse Z,USD
+2024-11-21,Solvents,Ammonium Nitrate,Supplier D,287,6.12,1756.44,Asia,17,Ordered,PO92023,3.8,754,Warehouse Y,JPY
+2024-07-05,Chemicals,Sulfur,Supplier B,110,4.29,471.9,South America,16,Ordered,PO43774,3.0,1839,Warehouse Y,EUR
+2024-03-24,Organic Materials,Sulfur,Supplier C,731,7.15,5226.65,Africa,21,In Transit,PO60747,4.0,1863,Warehouse Z,GBP
+2024-07-08,Solvents,Sulfur,Supplier C,1010,7.86,7938.6,Africa,5,Delivered,PO13862,4.5,1089,Warehouse X,GBP
+2024-06-30,Additives,Sulfur,Supplier D,837,9.59,8026.83,Africa,26,Ordered,PO82737,4.4,1354,Warehouse X,JPY
+2024-04-17,Organic Materials,Potash,Supplier C,1659,7.93,13155.87,Africa,12,Ordered,PO46725,3.5,867,Warehouse Z,EUR
+2024-12-09,Chemicals,Sulfur,Supplier A,652,1.15,749.8,Africa,30,In Transit,PO39567,4.9,1507,Warehouse Z,EUR
+2024-05-16,Solvents,Phosphate,Supplier D,309,1.61,497.49,Africa,24,Delivered,PO29884,4.2,1908,Warehouse X,EUR
+2024-12-25,Organic Materials,Potash,Supplier A,371,3.36,1246.56,North America,26,Ordered,PO54798,3.1,1820,Warehouse Z,USD
+2024-12-15,Chemicals,Urea,Supplier E,278,1.36,378.08,North America,10,Ordered,PO61491,3.1,1001,Warehouse Y,EUR
+2024-11-27,Additives,Phosphate,Supplier E,483,1.54,743.82,South America,29,Delivered,PO96105,4.0,558,Warehouse Z,JPY
+2024-02-06,Additives,Phosphate,Supplier B,982,8.1,7954.2,Asia,21,In Transit,PO27991,3.7,744,Warehouse X,JPY
+2024-11-07,Chemicals,Phosphate,Supplier C,1019,5.56,5665.64,Europe,9,In Transit,PO21507,4.2,1067,Warehouse X,INR
+2024-11-21,Additives,Phosphate,Supplier E,1240,6.66,8258.4,North America,19,Ordered,PO60096,4.9,1509,Warehouse Y,GBP
+2024-03-28,Organic Materials,Potash,Supplier C,1236,5.51,6810.36,Europe,10,Ordered,PO78251,3.2,636,Warehouse X,GBP
+2024-09-30,Additives,Urea,Supplier A,1149,4.74,5446.26,South America,10,Delivered,PO98866,4.5,1726,Warehouse Z,INR
+2024-05-05,Minerals,Urea,Supplier D,935,7.32,6844.2,Asia,23,In Transit,PO90274,4.1,1240,Warehouse Y,JPY
+2024-03-24,Additives,Sulfur,Supplier E,311,1.74,541.14,North America,23,In Transit,PO91988,4.7,1690,Warehouse Y,JPY
+2024-08-24,Minerals,Ammonium Nitrate,Supplier D,153,5.83,891.99,North America,26,Delivered,PO99983,4.5,1484,Warehouse Z,JPY
+2024-07-13,Solvents,Potash,Supplier E,283,6.54,1850.82,Asia,9,Ordered,PO39809,3.6,1658,Warehouse X,GBP
+2024-05-18,Organic Materials,Urea,Supplier C,824,3.5,2884.0,Asia,28,Ordered,PO64700,4.0,1393,Warehouse X,EUR
+2024-11-23,Solvents,Potash,Supplier E,1235,3.79,4680.65,Europe,28,Delivered,PO41504,4.0,1028,Warehouse X,GBP
+2024-12-18,Solvents,Potash,Supplier E,290,5.6,1624.0,Europe,20,Ordered,PO85090,4.2,1786,Warehouse X,INR
+2024-10-12,Additives,Sulfur,Supplier A,1322,2.83,3741.26,Asia,16,Ordered,PO30021,3.5,1904,Warehouse Z,EUR
+2024-04-22,Additives,Urea,Supplier B,1324,8.27,10949.48,North America,6,Ordered,PO65897,4.3,1474,Warehouse Z,USD
+2024-12-16,Additives,Ammonium Nitrate,Supplier A,1706,5.83,9945.98,Africa,12,Delivered,PO50944,4.3,1921,Warehouse Z,USD
+2024-06-15,Solvents,Ammonium Nitrate,Supplier D,764,4.52,3453.28,South America,29,In Transit,PO89346,4.3,744,Warehouse X,JPY
+2024-01-29,Organic Materials,Ammonium Nitrate,Supplier C,1868,6.71,12534.28,South America,20,In Transit,PO53160,4.4,1264,Warehouse Z,EUR
+2024-04-27,Organic Materials,Phosphate,Supplier C,888,8.51,7556.88,Europe,12,In Transit,PO68873,4.1,1549,Warehouse Z,GBP
+2024-01-17,Minerals,Urea,Supplier E,125,7.13,891.25,Asia,7,In Transit,PO81071,4.2,1678,Warehouse Y,INR
+2024-06-10,Chemicals,Phosphate,Supplier C,697,1.6,1115.2,North America,13,Delivered,PO27271,4.2,535,Warehouse Y,JPY
+2024-07-24,Organic Materials,Phosphate,Supplier B,947,7.29,6903.63,North America,16,In Transit,PO37100,4.8,1031,Warehouse Y,JPY
+2024-05-17,Additives,Phosphate,Supplier B,894,7.57,6767.58,Europe,12,Delivered,PO95520,4.1,833,Warehouse Y,EUR
+2024-02-03,Minerals,Sulfur,Supplier E,1695,8.62,14610.9,Europe,6,In Transit,PO28163,3.0,1691,Warehouse Z,INR
+2024-04-18,Additives,Sulfur,Supplier E,273,1.52,414.96,Africa,26,Ordered,PO86156,3.9,619,Warehouse X,USD
+2024-10-17,Solvents,Potash,Supplier D,1584,1.78,2819.52,South America,11,Delivered,PO80956,4.8,799,Warehouse Y,JPY
+2024-06-10,Solvents,Potash,Supplier E,1945,4.91,9549.95,South America,21,Delivered,PO99659,4.1,1154,Warehouse X,JPY
+2024-04-18,Additives,Urea,Supplier A,1245,5.08,6324.6,South America,30,Ordered,PO36517,3.7,1444,Warehouse Z,EUR
+2024-12-01,Organic Materials,Urea,Supplier A,1953,6.48,12655.44,Europe,16,Delivered,PO28102,3.7,1919,Warehouse Z,JPY
+2024-09-12,Chemicals,Sulfur,Supplier A,597,3.78,2256.66,Africa,17,Delivered,PO50501,5.0,777,Warehouse Y,EUR
+2024-07-21,Additives,Potash,Supplier B,1271,7.68,9761.28,Asia,20,In Transit,PO78656,3.6,1231,Warehouse Y,INR
+2024-11-25,Organic Materials,Potash,Supplier C,1167,7.67,8950.89,Europe,19,Delivered,PO27727,3.3,834,Warehouse X,USD
+2024-08-22,Minerals,Phosphate,Supplier D,447,2.07,925.29,Africa,6,Delivered,PO66369,4.4,608,Warehouse X,USD
+2024-03-14,Additives,Ammonium Nitrate,Supplier E,1503,7.37,11077.11,Europe,6,Delivered,PO29025,4.2,1058,Warehouse Y,JPY
+2024-05-15,Minerals,Ammonium Nitrate,Supplier D,879,7.31,6425.49,Asia,25,Delivered,PO96013,3.6,1239,Warehouse Y,JPY
+2024-03-12,Organic Materials,Ammonium Nitrate,Supplier B,447,2.47,1104.09,Asia,15,In Transit,PO84035,4.6,1359,Warehouse X,EUR
+2024-05-06,Organic Materials,Sulfur,Supplier E,384,9.58,3678.72,Africa,8,Delivered,PO30715,3.5,1803,Warehouse Y,INR
+2024-10-14,Organic Materials,Ammonium Nitrate,Supplier E,650,5.71,3711.5,North America,27,Delivered,PO51614,4.3,1229,Warehouse Y,EUR
+2024-10-02,Organic Materials,Ammonium Nitrate,Supplier B,716,8.05,5763.8,Asia,21,Delivered,PO18888,4.2,599,Warehouse Z,GBP
+2024-05-14,Solvents,Phosphate,Supplier C,649,7.49,4861.01,Asia,25,Delivered,PO83051,4.1,1093,Warehouse X,JPY
+2024-10-26,Organic Materials,Urea,Supplier E,1109,2.5,2772.5,Asia,13,In Transit,PO79856,4.3,1097,Warehouse X,USD
+2024-08-07,Solvents,Sulfur,Supplier C,398,2.14,851.72,Asia,28,In Transit,PO25517,3.6,1584,Warehouse X,USD
+2024-10-25,Chemicals,Potash,Supplier B,229,8.03,1838.87,North America,13,In Transit,PO34134,4.5,1808,Warehouse Z,EUR
+2024-07-23,Solvents,Phosphate,Supplier D,442,3.42,1511.64,South America,23,Delivered,PO51628,3.1,657,Warehouse Z,EUR
+2024-07-04,Minerals,Ammonium Nitrate,Supplier E,990,8.98,8890.2,South America,22,Ordered,PO29073,4.0,1552,Warehouse Z,JPY
+2024-04-22,Chemicals,Potash,Supplier C,665,7.94,5280.1,Asia,23,Ordered,PO13864,3.3,896,Warehouse Z,EUR
+2024-03-11,Minerals,Phosphate,Supplier E,962,1.26,1212.12,North America,10,In Transit,PO51771,3.2,1786,Warehouse X,USD
+2024-09-17,Additives,Sulfur,Supplier C,713,8.26,5889.38,Europe,17,In Transit,PO64269,4.6,875,Warehouse X,USD
+2024-09-09,Additives,Ammonium Nitrate,Supplier E,1091,3.45,3763.95,North America,25,In Transit,PO63903,3.5,693,Warehouse Y,USD
+2024-02-16,Solvents,Sulfur,Supplier E,1702,1.57,2672.14,Africa,17,In Transit,PO49760,4.2,1726,Warehouse X,GBP
+2024-01-25,Minerals,Phosphate,Supplier E,257,7.41,1904.37,Europe,16,In Transit,PO68065,3.6,842,Warehouse Y,EUR
+2024-02-26,Additives,Potash,Supplier D,839,6.19,5193.41,South America,23,Ordered,PO93472,3.5,1613,Warehouse Z,JPY
+2024-03-19,Additives,Urea,Supplier E,615,1.69,1039.35,South America,25,In Transit,PO45887,4.5,1160,Warehouse X,USD
+2024-11-17,Additives,Ammonium Nitrate,Supplier C,605,5.1,3085.5,North America,7,Ordered,PO29917,4.2,1147,Warehouse X,GBP
+2024-03-22,Chemicals,Sulfur,Supplier D,1576,4.24,6682.24,South America,21,Ordered,PO34632,4.8,1902,Warehouse Y,EUR
+2024-12-14,Chemicals,Potash,Supplier A,1380,5.5,7590.0,North America,13,Delivered,PO23994,4.5,1116,Warehouse Z,INR
+2024-08-04,Organic Materials,Potash,Supplier C,1115,6.1,6801.5,North America,17,Ordered,PO27241,4.3,1055,Warehouse Y,JPY
+2024-11-01,Minerals,Urea,Supplier C,1316,4.31,5671.96,North America,12,In Transit,PO34215,3.7,1903,Warehouse Z,JPY
+2024-02-02,Additives,Phosphate,Supplier A,1362,3.3,4494.6,North America,21,In Transit,PO13433,3.4,1929,Warehouse Y,JPY
+2024-07-16,Minerals,Urea,Supplier D,500,1.93,965.0,North America,17,In Transit,PO90213,4.6,1909,Warehouse X,JPY
+2024-07-14,Organic Materials,Urea,Supplier E,1037,6.17,6398.29,Africa,16,Delivered,PO90864,3.5,1242,Warehouse X,INR
+2024-11-01,Solvents,Phosphate,Supplier C,319,7.51,2395.69,Africa,16,Ordered,PO44978,3.4,696,Warehouse Y,EUR
+2024-08-27,Organic Materials,Phosphate,Supplier A,377,3.06,1153.62,Africa,20,Delivered,PO89377,4.1,1594,Warehouse X,EUR
+2024-09-27,Additives,Phosphate,Supplier E,723,5.58,4034.34,North America,30,In Transit,PO84323,3.1,1687,Warehouse Z,EUR
+2024-05-08,Solvents,Potash,Supplier D,113,1.4,158.2,South America,20,In Transit,PO90263,5.0,1220,Warehouse X,JPY
+2024-10-10,Solvents,Potash,Supplier C,910,8.77,7980.7,Europe,24,In Transit,PO40266,4.9,794,Warehouse X,INR
+2024-01-06,Organic Materials,Ammonium Nitrate,Supplier E,780,3.2,2496.0,Africa,5,Ordered,PO88166,4.2,526,Warehouse Z,GBP
+2024-12-14,Additives,Ammonium Nitrate,Supplier E,1823,5.25,9570.75,Asia,21,In Transit,PO40432,4.6,780,Warehouse Z,JPY
+2024-02-28,Solvents,Urea,Supplier B,1370,4.45,6096.5,Asia,9,In Transit,PO40266,4.7,1561,Warehouse Y,INR
+2024-12-15,Organic Materials,Urea,Supplier A,878,2.35,2063.3,North America,19,Delivered,PO13418,4.5,1076,Warehouse Y,USD
+2024-10-01,Organic Materials,Ammonium Nitrate,Supplier E,1746,9.38,16377.48,Europe,10,Ordered,PO57089,3.8,1263,Warehouse Z,EUR
+2024-05-16,Additives,Sulfur,Supplier D,1865,8.72,16262.8,Africa,12,Ordered,PO20417,3.8,1493,Warehouse Y,JPY
+2024-11-24,Organic Materials,Urea,Supplier B,774,5.98,4628.52,North America,7,Delivered,PO72469,4.3,1343,Warehouse X,JPY
+2024-06-23,Organic Materials,Sulfur,Supplier E,1001,9.23,9239.23,South America,21,In Transit,PO27575,4.5,1196,Warehouse X,INR
+2024-02-27,Organic Materials,Sulfur,Supplier E,785,7.67,6020.95,Europe,25,Ordered,PO75840,3.3,833,Warehouse Z,EUR
+2024-05-30,Minerals,Phosphate,Supplier D,981,4.77,4679.37,South America,13,In Transit,PO89260,4.2,709,Warehouse X,GBP
+2024-08-10,Chemicals,Potash,Supplier B,1770,3.9,6903.0,South America,11,Delivered,PO71441,4.7,946,Warehouse X,USD
+2024-03-21,Minerals,Ammonium Nitrate,Supplier B,1786,4.75,8483.5,Asia,9,In Transit,PO95140,3.1,816,Warehouse Y,INR
+2024-08-20,Organic Materials,Potash,Supplier A,1860,7.48,13912.8,Africa,10,In Transit,PO59015,3.5,1530,Warehouse Y,GBP
+2024-01-02,Chemicals,Ammonium Nitrate,Supplier E,1433,3.44,4929.52,North America,10,Ordered,PO34114,4.6,952,Warehouse Z,GBP
+2024-05-14,Solvents,Potash,Supplier A,1317,1.7,2238.9,South America,16,Ordered,PO60785,3.1,885,Warehouse Y,USD
+2024-09-13,Minerals,Ammonium Nitrate,Supplier B,378,4.36,1648.08,South America,24,Delivered,PO74414,3.9,1644,Warehouse Y,USD
+2024-04-01,Minerals,Potash,Supplier A,715,5.52,3946.8,North America,27,Delivered,PO72108,4.0,1756,Warehouse X,USD
+2024-09-16,Minerals,Phosphate,Supplier D,756,9.12,6894.72,Europe,8,Delivered,PO28024,4.0,1912,Warehouse Y,GBP
+2024-02-24,Additives,Sulfur,Supplier C,1335,2.61,3484.35,North America,26,In Transit,PO31467,4.9,1576,Warehouse X,INR
+2024-11-16,Organic Materials,Ammonium Nitrate,Supplier D,1523,8.24,12549.52,North America,12,In Transit,PO35330,4.8,1589,Warehouse Z,GBP
+2024-06-01,Solvents,Sulfur,Supplier B,511,9.83,5023.13,Africa,18,Ordered,PO39658,3.5,1959,Warehouse X,INR
+2024-11-23,Solvents,Ammonium Nitrate,Supplier D,1081,9.59,10366.79,Asia,30,In Transit,PO14224,4.4,1628,Warehouse Y,GBP
+2024-09-16,Solvents,Ammonium Nitrate,Supplier B,743,1.62,1203.66,South America,15,Ordered,PO63554,3.8,1938,Warehouse Z,USD
+2024-11-07,Organic Materials,Phosphate,Supplier D,463,5.19,2402.97,Asia,28,In Transit,PO11967,3.5,733,Warehouse Z,EUR
+2024-04-11,Chemicals,Potash,Supplier E,915,3.54,3239.1,Europe,8,Delivered,PO45370,4.1,1354,Warehouse X,JPY
+2024-03-19,Minerals,Ammonium Nitrate,Supplier E,753,8.6,6475.8,South America,20,Ordered,PO64138,3.9,1443,Warehouse Y,GBP
+2024-07-10,Organic Materials,Potash,Supplier D,696,3.95,2749.2,Asia,26,Delivered,PO39170,3.6,656,Warehouse X,JPY
+2024-03-23,Minerals,Phosphate,Supplier A,1605,5.98,9597.9,Europe,20,Delivered,PO97993,4.6,738,Warehouse Y,JPY
+2024-10-03,Organic Materials,Urea,Supplier B,1523,1.07,1629.61,Africa,20,Delivered,PO36585,3.8,768,Warehouse X,JPY
+2024-09-28,Minerals,Sulfur,Supplier E,1396,2.81,3922.76,Europe,11,Delivered,PO36812,3.6,535,Warehouse X,GBP
+2024-01-01,Organic Materials,Ammonium Nitrate,Supplier B,1105,6.07,6707.35,Asia,23,In Transit,PO18668,4.1,1482,Warehouse Y,EUR
+2024-11-02,Chemicals,Phosphate,Supplier E,1279,3.74,4783.46,North America,10,In Transit,PO33209,4.9,1213,Warehouse Y,JPY
+2024-06-14,Solvents,Potash,Supplier C,1701,6.6,11226.6,South America,25,Delivered,PO67577,3.2,1138,Warehouse X,GBP
+2024-09-07,Minerals,Ammonium Nitrate,Supplier D,596,5.18,3087.28,Africa,18,Delivered,PO90879,4.1,1915,Warehouse Z,GBP
+2024-01-10,Organic Materials,Potash,Supplier E,767,6.33,4855.11,Asia,5,Delivered,PO74217,3.7,1242,Warehouse Y,GBP
+2024-02-27,Chemicals,Urea,Supplier D,870,5.44,4732.8,Africa,12,In Transit,PO52584,4.7,784,Warehouse X,GBP
+2024-07-04,Chemicals,Ammonium Nitrate,Supplier C,674,7.95,5358.3,Europe,6,In Transit,PO69971,4.2,1405,Warehouse Y,GBP
+2024-06-06,Solvents,Sulfur,Supplier B,1772,2.76,4890.72,Asia,9,Ordered,PO42346,4.3,1723,Warehouse Z,INR
+2024-05-02,Organic Materials,Ammonium Nitrate,Supplier D,1709,9.1,15551.9,North America,23,Ordered,PO66040,3.5,1571,Warehouse Z,INR
+2024-01-30,Minerals,Sulfur,Supplier E,904,7.84,7087.36,North America,23,Ordered,PO63066,3.5,1200,Warehouse Z,JPY
+2024-05-03,Additives,Potash,Supplier C,847,3.21,2718.87,North America,10,Ordered,PO15482,4.6,852,Warehouse Y,INR
+2024-10-17,Chemicals,Ammonium Nitrate,Supplier E,333,1.06,352.98,North America,9,In Transit,PO89682,3.5,1953,Warehouse X,GBP
+2024-02-10,Chemicals,Phosphate,Supplier C,1254,4.69,5881.26,South America,25,Ordered,PO59856,4.2,1123,Warehouse X,GBP
+2024-02-13,Solvents,Phosphate,Supplier C,509,3.1,1577.9,Africa,21,Delivered,PO51012,3.9,558,Warehouse Y,INR
+2024-09-05,Organic Materials,Urea,Supplier E,1312,4.12,5405.44,Asia,6,In Transit,PO61662,4.4,742,Warehouse X,JPY
+2024-02-05,Additives,Phosphate,Supplier D,1217,8.56,10417.52,North America,23,Delivered,PO90151,3.5,955,Warehouse Y,JPY
+2024-09-29,Additives,Urea,Supplier B,468,8.89,4160.52,South America,9,In Transit,PO84964,4.3,763,Warehouse Z,USD
+2024-03-05,Additives,Potash,Supplier B,1496,9.56,14301.76,North America,6,In Transit,PO87831,4.5,1921,Warehouse Y,INR
+2024-03-06,Organic Materials,Sulfur,Supplier C,1672,1.01,1688.72,North America,10,Delivered,PO80275,4.0,791,Warehouse Z,GBP
+2024-12-03,Minerals,Potash,Supplier E,1226,6.92,8483.92,Europe,13,Delivered,PO78843,4.4,1909,Warehouse X,GBP
+2024-08-31,Chemicals,Sulfur,Supplier C,155,8.64,1339.2,Asia,10,In Transit,PO94068,5.0,964,Warehouse Z,USD
+2024-10-08,Organic Materials,Sulfur,Supplier B,1589,7.54,11981.06,Africa,21,Ordered,PO15047,3.6,1129,Warehouse Y,INR
+2024-03-25,Additives,Urea,Supplier C,1045,1.94,2027.3,Europe,17,In Transit,PO78242,3.0,756,Warehouse Z,JPY
+2024-05-15,Chemicals,Phosphate,Supplier C,1550,5.77,8943.5,Europe,24,Ordered,PO24328,3.0,929,Warehouse Y,EUR
+2024-09-27,Chemicals,Phosphate,Supplier B,529,3.14,1661.06,Africa,23,Ordered,PO69193,3.1,766,Warehouse Z,USD
+2024-11-06,Additives,Urea,Supplier D,997,5.43,5413.71,North America,25,Ordered,PO69886,3.8,660,Warehouse Z,JPY
+2024-08-04,Additives,Urea,Supplier C,1733,1.54,2668.82,North America,5,Delivered,PO15559,4.1,1370,Warehouse Y,GBP
+2024-04-18,Chemicals,Potash,Supplier D,696,9.97,6939.12,Asia,28,Ordered,PO42207,4.4,1914,Warehouse X,USD
+2024-10-03,Solvents,Urea,Supplier C,1802,7.4,13334.8,North America,28,Ordered,PO77987,3.7,728,Warehouse X,USD
+2024-12-19,Chemicals,Phosphate,Supplier E,1518,1.84,2793.12,Europe,26,Ordered,PO80499,4.5,659,Warehouse Z,EUR
+2024-04-12,Minerals,Urea,Supplier C,241,9.29,2238.89,Europe,14,In Transit,PO61853,3.5,538,Warehouse X,JPY
+2024-12-31,Minerals,Urea,Supplier C,1777,9.08,16135.16,Europe,7,In Transit,PO15144,3.1,1491,Warehouse X,EUR
+2024-06-08,Solvents,Sulfur,Supplier A,1836,5.68,10428.48,Africa,11,Ordered,PO83098,4.2,1383,Warehouse Y,USD
+2024-07-23,Organic Materials,Urea,Supplier E,1729,7.31,12638.99,North America,19,Delivered,PO60777,3.1,587,Warehouse X,JPY
+2024-12-09,Chemicals,Potash,Supplier E,1728,4.35,7516.8,North America,24,In Transit,PO77649,4.2,902,Warehouse Y,INR
+2024-11-28,Minerals,Urea,Supplier D,937,9.77,9154.49,North America,20,Delivered,PO92660,4.8,720,Warehouse Y,USD
+2024-07-10,Chemicals,Ammonium Nitrate,Supplier D,1478,1.76,2601.28,North America,20,Ordered,PO16461,3.4,567,Warehouse Z,EUR
+2024-08-12,Solvents,Ammonium Nitrate,Supplier C,1122,1.86,2086.92,Asia,10,Ordered,PO34884,4.2,1851,Warehouse Z,EUR
+2024-09-21,Additives,Sulfur,Supplier B,385,2.2,847.0,Asia,12,Ordered,PO48165,3.2,1551,Warehouse Z,EUR
+2024-08-19,Solvents,Sulfur,Supplier C,1397,8.38,11706.86,Europe,18,Ordered,PO67613,4.9,1714,Warehouse Z,EUR
+2024-03-02,Solvents,Ammonium Nitrate,Supplier A,720,1.67,1202.4,Europe,24,Ordered,PO62171,3.2,621,Warehouse Z,EUR
+2024-05-06,Solvents,Sulfur,Supplier C,595,6.11,3635.45,Africa,9,In Transit,PO49918,4.2,1460,Warehouse X,GBP
+2024-04-25,Minerals,Sulfur,Supplier A,617,4.91,3029.47,South America,30,Ordered,PO47475,3.8,743,Warehouse X,USD
+2024-02-02,Solvents,Phosphate,Supplier C,1448,9.68,14016.64,Europe,23,In Transit,PO70469,4.5,1018,Warehouse Y,INR
+2024-06-22,Additives,Phosphate,Supplier D,415,3.13,1298.95,North America,29,In Transit,PO31821,4.3,588,Warehouse Z,INR
+2024-01-11,Additives,Urea,Supplier C,1564,3.35,5239.4,Europe,10,In Transit,PO65372,4.6,635,Warehouse Z,JPY
+2024-10-28,Additives,Ammonium Nitrate,Supplier D,966,3.84,3709.44,Europe,24,In Transit,PO48590,3.4,1117,Warehouse Y,GBP
+2024-10-10,Organic Materials,Potash,Supplier B,1716,8.21,14088.36,Asia,26,In Transit,PO90364,3.2,1867,Warehouse Y,USD
+2024-04-27,Solvents,Ammonium Nitrate,Supplier B,872,7.31,6374.32,North America,21,In Transit,PO17149,3.4,521,Warehouse Y,EUR
+2024-10-28,Additives,Ammonium Nitrate,Supplier E,251,7.62,1912.62,Africa,13,Delivered,PO77760,3.6,697,Warehouse Z,EUR
+2024-04-22,Organic Materials,Phosphate,Supplier C,1019,3.86,3933.34,Africa,10,Ordered,PO28643,4.3,753,Warehouse Y,INR
+2024-01-04,Solvents,Phosphate,Supplier E,1324,3.45,4567.8,Africa,28,In Transit,PO70762,3.2,1732,Warehouse X,INR
+2024-02-06,Solvents,Sulfur,Supplier C,1081,1.67,1805.27,Europe,26,Ordered,PO94685,3.9,920,Warehouse Z,GBP
+2024-12-28,Chemicals,Potash,Supplier B,1292,2.82,3643.44,Africa,15,Ordered,PO69204,5.0,1703,Warehouse X,USD
+2024-11-19,Solvents,Phosphate,Supplier A,920,8.02,7378.4,Africa,19,Ordered,PO21854,4.5,909,Warehouse Z,USD
+2024-01-31,Chemicals,Sulfur,Supplier E,1194,6.26,7474.44,Africa,24,In Transit,PO75622,4.4,878,Warehouse X,JPY
+2024-04-27,Minerals,Potash,Supplier E,1137,2.4,2728.8,Asia,23,In Transit,PO24833,4.3,1873,Warehouse Y,EUR
+2024-02-04,Minerals,Phosphate,Supplier B,1991,2.48,4937.68,North America,7,Ordered,PO33562,4.5,1219,Warehouse X,USD
+2024-01-17,Organic Materials,Ammonium Nitrate,Supplier B,1984,5.19,10296.96,Asia,12,Delivered,PO86735,3.5,559,Warehouse Z,USD
+2024-06-18,Chemicals,Ammonium Nitrate,Supplier A,1881,4.66,8765.46,North America,17,In Transit,PO81618,4.6,685,Warehouse Y,GBP
+2024-02-06,Minerals,Potash,Supplier E,1516,5.82,8823.12,Asia,17,Ordered,PO27734,3.6,798,Warehouse Y,GBP
+2024-09-20,Minerals,Potash,Supplier B,956,9.68,9254.08,North America,9,Ordered,PO61520,3.1,1068,Warehouse Y,JPY
+2024-05-01,Minerals,Phosphate,Supplier B,1213,2.87,3481.31,Africa,8,In Transit,PO64206,3.8,1687,Warehouse X,EUR
+2024-05-22,Solvents,Phosphate,Supplier A,175,3.77,659.75,South America,5,In Transit,PO52396,5.0,1212,Warehouse X,JPY
+2024-12-08,Chemicals,Potash,Supplier A,1719,3.39,5827.41,Africa,11,Ordered,PO69098,3.5,1221,Warehouse Y,GBP
+2024-09-05,Minerals,Potash,Supplier D,836,2.08,1738.88,South America,21,Ordered,PO13265,4.6,828,Warehouse Z,EUR
+2024-04-19,Chemicals,Sulfur,Supplier C,1536,2.42,3717.12,Africa,21,Delivered,PO33445,3.4,1525,Warehouse Z,GBP
+2024-10-03,Additives,Sulfur,Supplier D,1933,7.17,13859.61,Asia,26,Ordered,PO69464,3.1,1992,Warehouse Y,GBP
+2024-03-08,Additives,Sulfur,Supplier A,1763,8.44,14879.72,South America,18,In Transit,PO87373,5.0,1755,Warehouse X,JPY
+2024-10-19,Solvents,Ammonium Nitrate,Supplier B,1199,7.27,8716.73,Africa,9,In Transit,PO36467,3.4,995,Warehouse Y,INR
+2024-10-22,Additives,Ammonium Nitrate,Supplier A,1316,1.36,1789.76,Europe,24,Ordered,PO69596,3.8,1534,Warehouse X,INR
+2024-08-30,Organic Materials,Sulfur,Supplier E,1406,8.52,11979.12,South America,8,Delivered,PO21820,4.3,1667,Warehouse Y,JPY
+2024-05-04,Chemicals,Sulfur,Supplier B,1972,3.95,7789.4,North America,10,Ordered,PO42778,3.2,639,Warehouse X,GBP
+2024-08-30,Minerals,Potash,Supplier D,274,1.82,498.68,Asia,20,Ordered,PO52477,4.1,702,Warehouse X,GBP
+2024-07-27,Organic Materials,Ammonium Nitrate,Supplier D,323,3.23,1043.29,Africa,24,In Transit,PO95010,3.9,1684,Warehouse Y,GBP
+2024-04-07,Organic Materials,Sulfur,Supplier D,1674,4.2,7030.8,Africa,24,Delivered,PO31495,4.2,528,Warehouse Y,INR
+2024-02-18,Additives,Urea,Supplier B,608,5.62,3416.96,North America,6,Ordered,PO26193,3.2,1583,Warehouse Z,EUR
+2024-02-19,Chemicals,Phosphate,Supplier C,1446,7.09,10252.14,Africa,30,Delivered,PO21952,3.9,944,Warehouse Y,USD
+2024-12-03,Minerals,Sulfur,Supplier C,1461,3.34,4879.74,Africa,22,Delivered,PO24963,3.5,1965,Warehouse Y,JPY
+2024-08-08,Organic Materials,Ammonium Nitrate,Supplier C,827,9.92,8203.84,North America,21,Ordered,PO68903,3.1,892,Warehouse Y,JPY
+2024-06-30,Solvents,Sulfur,Supplier A,440,1.28,563.2,North America,29,In Transit,PO93109,3.1,1077,Warehouse Y,GBP
+2024-08-04,Minerals,Urea,Supplier A,1425,4.64,6612.0,Europe,8,In Transit,PO57571,4.5,851,Warehouse Z,GBP
+2024-07-29,Additives,Potash,Supplier E,1354,5.07,6864.78,Europe,7,Delivered,PO21181,4.6,1600,Warehouse Y,INR
+2024-08-27,Chemicals,Ammonium Nitrate,Supplier B,190,7.73,1468.7,North America,20,In Transit,PO78657,3.0,508,Warehouse Z,GBP
+2024-01-28,Solvents,Potash,Supplier E,1253,3.25,4072.25,South America,26,In Transit,PO60343,4.0,1985,Warehouse Y,EUR
+2024-12-10,Minerals,Phosphate,Supplier A,1421,5.16,7332.36,South America,9,Ordered,PO77065,4.3,702,Warehouse Y,JPY
+2024-11-30,Minerals,Potash,Supplier B,1487,8.24,12252.88,South America,24,Delivered,PO90225,3.0,938,Warehouse X,USD
+2024-11-26,Organic Materials,Sulfur,Supplier D,1424,2.26,3218.24,Asia,22,Delivered,PO30958,3.1,1532,Warehouse Y,GBP
+2024-02-20,Minerals,Urea,Supplier B,918,1.11,1018.98,Europe,5,Ordered,PO59634,3.8,1949,Warehouse Z,EUR
+2024-02-01,Chemicals,Potash,Supplier A,1641,8.47,13899.27,South America,29,Delivered,PO82134,3.3,1472,Warehouse Y,USD
+2024-07-25,Chemicals,Urea,Supplier D,779,9.84,7665.36,South America,26,Delivered,PO59886,3.7,1250,Warehouse X,INR
+2024-06-22,Minerals,Ammonium Nitrate,Supplier D,1730,2.18,3771.4,South America,25,Delivered,PO15754,3.8,1929,Warehouse Z,USD
+2024-02-25,Organic Materials,Ammonium Nitrate,Supplier B,981,8.41,8250.21,North America,18,Ordered,PO32398,3.0,1707,Warehouse Z,JPY
+2024-05-07,Solvents,Sulfur,Supplier C,316,4.35,1374.6,Africa,21,In Transit,PO53934,4.4,879,Warehouse Z,EUR
+2024-04-08,Solvents,Sulfur,Supplier A,121,6.67,807.07,Asia,18,In Transit,PO84120,4.5,1400,Warehouse Y,JPY
+2024-04-07,Organic Materials,Sulfur,Supplier A,301,6.8,2046.8,Africa,16,Delivered,PO96445,4.0,1879,Warehouse X,USD
+2024-10-01,Additives,Urea,Supplier C,629,6.24,3924.96,Europe,6,In Transit,PO29672,3.8,719,Warehouse X,JPY
+2024-08-17,Chemicals,Phosphate,Supplier E,554,3.33,1844.82,Africa,27,Ordered,PO31249,4.5,870,Warehouse X,USD
+2024-03-12,Additives,Phosphate,Supplier E,1145,8.31,9514.95,Asia,21,In Transit,PO28953,4.6,1226,Warehouse X,INR
+2024-08-04,Organic Materials,Phosphate,Supplier A,1629,1.2,1954.8,South America,18,Ordered,PO33444,3.1,1277,Warehouse X,JPY
+2024-04-03,Additives,Ammonium Nitrate,Supplier C,1162,1.58,1835.96,South America,12,Delivered,PO16725,3.5,1368,Warehouse X,JPY
+2024-05-22,Organic Materials,Ammonium Nitrate,Supplier C,1242,9.12,11327.04,North America,30,Ordered,PO64995,3.8,938,Warehouse X,JPY
+2024-08-24,Solvents,Phosphate,Supplier D,1288,4.99,6427.12,North America,20,Ordered,PO50378,4.4,1553,Warehouse Y,USD
+2024-05-07,Solvents,Sulfur,Supplier E,1508,2.16,3257.28,Asia,30,Ordered,PO50569,4.6,966,Warehouse Y,JPY
+2024-02-08,Additives,Potash,Supplier E,1278,9.15,11693.7,South America,29,Delivered,PO68491,3.2,1334,Warehouse X,JPY
+2024-08-14,Additives,Phosphate,Supplier D,552,8.46,4669.92,Africa,17,In Transit,PO47851,4.1,731,Warehouse Z,INR
+2024-10-08,Chemicals,Potash,Supplier B,1012,3.98,4027.76,Africa,16,In Transit,PO92110,5.0,1143,Warehouse Y,GBP
+2024-02-20,Solvents,Phosphate,Supplier E,866,1.38,1195.08,Asia,23,Ordered,PO33684,3.7,753,Warehouse Y,JPY
+2024-01-26,Chemicals,Potash,Supplier D,901,5.15,4640.15,North America,30,Ordered,PO25408,3.6,1454,Warehouse X,USD
+2024-11-29,Additives,Sulfur,Supplier C,1048,2.51,2630.48,Africa,28,In Transit,PO27245,3.1,725,Warehouse Y,USD
+2024-10-03,Organic Materials,Ammonium Nitrate,Supplier B,1681,6.16,10354.96,Europe,29,Delivered,PO36588,5.0,1564,Warehouse X,JPY
+2024-01-08,Solvents,Phosphate,Supplier A,1491,8.4,12524.4,Asia,27,Ordered,PO10463,4.3,778,Warehouse Y,INR
+2024-02-17,Organic Materials,Phosphate,Supplier C,1305,4.55,5937.75,Europe,23,In Transit,PO91600,3.7,1515,Warehouse Y,USD
+2024-05-01,Chemicals,Sulfur,Supplier B,1514,1.27,1922.78,Europe,8,Ordered,PO43175,4.7,1239,Warehouse Z,EUR
+2024-03-26,Chemicals,Urea,Supplier D,1124,7.15,8036.6,North America,18,Ordered,PO11600,3.7,1943,Warehouse Z,INR
+2024-07-27,Minerals,Phosphate,Supplier C,408,2.56,1044.48,South America,9,Ordered,PO70115,4.7,1090,Warehouse Y,INR
+2024-09-05,Solvents,Potash,Supplier B,806,2.93,2361.58,Asia,13,Delivered,PO75225,4.5,1641,Warehouse Y,JPY
+2024-09-03,Solvents,Sulfur,Supplier A,150,2.68,402.0,South America,20,Delivered,PO75358,3.6,1978,Warehouse Y,GBP
+2024-04-19,Chemicals,Urea,Supplier C,1088,3.52,3829.76,Africa,29,In Transit,PO81237,3.4,583,Warehouse X,USD
+2024-07-24,Organic Materials,Phosphate,Supplier C,314,8.95,2810.3,Africa,12,Delivered,PO10753,4.1,668,Warehouse Z,JPY
+2024-01-31,Solvents,Phosphate,Supplier E,705,1.31,923.55,Asia,7,Delivered,PO89689,4.9,1171,Warehouse X,JPY
+2024-03-25,Chemicals,Ammonium Nitrate,Supplier B,951,6.57,6248.07,North America,14,Ordered,PO74679,4.3,1511,Warehouse X,EUR
+2024-07-13,Minerals,Urea,Supplier B,1985,3.21,6371.85,Africa,24,In Transit,PO41179,3.6,736,Warehouse Y,GBP
+2024-01-02,Additives,Sulfur,Supplier E,275,3.66,1006.5,Africa,22,Ordered,PO38426,3.8,1288,Warehouse X,JPY
+2024-07-18,Solvents,Potash,Supplier D,337,4.71,1587.27,South America,18,Ordered,PO87183,3.2,1080,Warehouse X,USD
+2024-05-15,Additives,Phosphate,Supplier D,1802,5.96,10739.92,Africa,13,Ordered,PO96438,4.4,1435,Warehouse Y,GBP
+2024-08-20,Organic Materials,Sulfur,Supplier E,1595,1.55,2472.25,North America,11,In Transit,PO72352,4.0,1729,Warehouse X,USD
+2024-05-26,Minerals,Ammonium Nitrate,Supplier C,390,3.52,1372.8,Africa,5,Ordered,PO69472,4.8,1138,Warehouse X,EUR
+2024-08-04,Solvents,Phosphate,Supplier A,813,2.24,1821.12,Africa,27,Delivered,PO63759,3.9,1907,Warehouse Z,GBP
+2024-12-22,Additives,Urea,Supplier D,738,2.8,2066.4,Europe,28,Delivered,PO67917,3.4,1409,Warehouse Z,INR
+2024-10-11,Additives,Sulfur,Supplier A,802,8.96,7185.92,North America,30,In Transit,PO20407,3.1,962,Warehouse Y,GBP
+2024-12-04,Chemicals,Potash,Supplier B,1032,5.73,5913.36,Africa,5,Delivered,PO88802,3.1,1634,Warehouse Z,USD
+2024-09-06,Additives,Ammonium Nitrate,Supplier B,1706,6.68,11396.08,North America,23,Ordered,PO88656,5.0,1334,Warehouse Z,JPY
+2024-03-20,Organic Materials,Sulfur,Supplier D,523,8.22,4299.06,North America,21,Ordered,PO10861,3.5,1095,Warehouse Z,EUR
+2024-04-07,Additives,Phosphate,Supplier C,1167,8.15,9511.05,Africa,8,In Transit,PO42075,3.8,1376,Warehouse X,GBP
+2024-05-31,Organic Materials,Potash,Supplier B,1089,9.9,10781.1,Africa,21,Delivered,PO81741,4.6,886,Warehouse Z,EUR
+2024-04-21,Organic Materials,Phosphate,Supplier A,813,8.04,6536.52,North America,5,Ordered,PO46452,4.3,642,Warehouse X,USD
+2024-01-30,Chemicals,Phosphate,Supplier C,1075,4.23,4547.25,South America,17,Delivered,PO91233,4.0,1474,Warehouse Z,USD
+2024-10-23,Minerals,Urea,Supplier D,299,5.9,1764.1,South America,25,Delivered,PO92396,4.9,1890,Warehouse Z,USD
+2024-10-04,Organic Materials,Urea,Supplier B,997,5.36,5343.92,North America,11,Ordered,PO83079,4.6,1252,Warehouse X,JPY
+2024-02-01,Additives,Phosphate,Supplier D,1578,9.21,14533.38,North America,27,Ordered,PO37215,4.9,867,Warehouse Y,INR
+2024-06-09,Additives,Ammonium Nitrate,Supplier C,1526,5.52,8423.52,South America,30,In Transit,PO16411,3.0,526,Warehouse X,EUR
+2024-01-30,Organic Materials,Urea,Supplier C,1026,4.5,4617.0,South America,15,Ordered,PO34227,3.7,1880,Warehouse X,INR
+2024-01-26,Additives,Urea,Supplier C,753,2.62,1972.86,Europe,18,In Transit,PO29432,3.7,1506,Warehouse Y,INR
+2024-10-26,Solvents,Urea,Supplier E,237,3.87,917.19,South America,16,Delivered,PO17217,4.4,1876,Warehouse Z,EUR
+2024-09-01,Chemicals,Urea,Supplier E,714,2.97,2120.58,South America,8,Delivered,PO95626,3.8,715,Warehouse X,USD
+2024-09-14,Additives,Potash,Supplier A,191,9.06,1730.46,Asia,9,In Transit,PO55746,3.4,1311,Warehouse Y,INR
+2024-09-28,Chemicals,Phosphate,Supplier C,1759,8.01,14089.59,Africa,18,In Transit,PO14813,4.3,1397,Warehouse X,EUR
+2024-03-21,Organic Materials,Potash,Supplier C,1555,1.53,2379.15,Europe,25,Delivered,PO29054,4.0,1570,Warehouse Y,GBP
+2024-01-30,Organic Materials,Sulfur,Supplier B,335,9.92,3323.2,Europe,23,Ordered,PO14250,4.9,1848,Warehouse Z,INR
+2024-09-17,Organic Materials,Sulfur,Supplier A,146,5.76,840.96,North America,13,Ordered,PO97424,4.7,1885,Warehouse Z,USD
+2024-02-11,Chemicals,Sulfur,Supplier A,1839,7.9,14528.1,Asia,13,Delivered,PO85771,4.1,674,Warehouse X,JPY
+2024-04-05,Additives,Potash,Supplier D,802,10.0,8020.0,Africa,22,In Transit,PO89073,4.5,744,Warehouse Y,EUR
+2024-02-05,Solvents,Phosphate,Supplier C,1427,9.77,13941.79,Europe,18,In Transit,PO49117,3.5,793,Warehouse Y,INR
+2024-10-31,Chemicals,Sulfur,Supplier B,323,1.9,613.7,South America,23,Delivered,PO53399,3.1,1308,Warehouse Z,USD
+2024-02-04,Solvents,Urea,Supplier D,1486,6.91,10268.26,South America,16,Ordered,PO21495,4.5,1320,Warehouse X,USD
+2024-12-11,Additives,Sulfur,Supplier E,1738,3.4,5909.2,South America,24,In Transit,PO16426,4.0,1923,Warehouse Y,EUR
+2024-04-30,Additives,Ammonium Nitrate,Supplier C,436,8.35,3640.6,Africa,13,Ordered,PO24272,3.0,1709,Warehouse X,GBP
+2024-07-25,Chemicals,Urea,Supplier A,1616,9.26,14964.16,Europe,26,In Transit,PO64651,4.8,708,Warehouse X,USD
+2024-03-02,Minerals,Urea,Supplier C,599,1.5,898.5,Africa,17,Delivered,PO33363,4.2,845,Warehouse X,EUR
+2024-10-18,Solvents,Urea,Supplier C,1156,9.97,11525.32,North America,29,In Transit,PO31146,3.5,632,Warehouse Y,INR
+2024-05-06,Organic Materials,Sulfur,Supplier E,457,2.97,1357.29,North America,11,Delivered,PO98092,4.3,1244,Warehouse Z,GBP
+2024-10-23,Solvents,Urea,Supplier B,1230,8.62,10602.6,Asia,18,In Transit,PO47274,3.0,907,Warehouse Z,EUR
+2024-10-31,Additives,Ammonium Nitrate,Supplier B,427,8.18,3492.86,North America,22,Delivered,PO90096,4.3,1193,Warehouse Y,EUR
+2024-01-21,Additives,Potash,Supplier B,777,4.19,3255.63,Europe,30,Delivered,PO96628,4.8,910,Warehouse Y,GBP
+2024-11-13,Chemicals,Ammonium Nitrate,Supplier D,1246,8.55,10653.3,Europe,22,In Transit,PO87983,4.6,1718,Warehouse Z,USD
+2024-02-11,Minerals,Phosphate,Supplier B,973,8.61,8377.53,Europe,20,Ordered,PO85010,3.2,1327,Warehouse Y,USD
+2024-08-02,Organic Materials,Urea,Supplier D,1046,2.58,2698.68,South America,10,Delivered,PO83685,4.2,751,Warehouse Z,INR
+2024-12-02,Solvents,Ammonium Nitrate,Supplier E,574,6.33,3633.42,South America,16,Ordered,PO33254,4.7,976,Warehouse Z,INR
+2024-10-25,Minerals,Sulfur,Supplier C,1733,8.26,14314.58,Europe,22,Delivered,PO69682,3.1,1369,Warehouse X,JPY
+2024-10-16,Organic Materials,Phosphate,Supplier D,929,7.28,6763.12,North America,22,In Transit,PO85886,4.6,1985,Warehouse Y,JPY
+2024-09-24,Additives,Ammonium Nitrate,Supplier E,1389,9.23,12820.47,North America,20,In Transit,PO57210,3.2,1522,Warehouse X,INR
+2024-06-10,Additives,Urea,Supplier D,477,1.25,596.25,Asia,13,Delivered,PO14697,4.2,1070,Warehouse Z,GBP
+2024-05-13,Chemicals,Sulfur,Supplier E,481,7.31,3516.11,Africa,14,In Transit,PO22206,4.2,1961,Warehouse Z,JPY
+2024-04-14,Chemicals,Urea,Supplier B,1411,9.53,13446.83,Asia,23,In Transit,PO49229,3.1,1691,Warehouse Y,JPY
+2024-12-08,Solvents,Phosphate,Supplier B,1446,6.07,8777.22,Africa,16,Delivered,PO52312,3.4,1715,Warehouse Y,GBP
+2024-06-09,Minerals,Ammonium Nitrate,Supplier E,985,6.07,5978.95,North America,29,Delivered,PO58309,3.7,1059,Warehouse Z,USD
+2024-05-02,Minerals,Urea,Supplier A,910,2.69,2447.9,Europe,27,Ordered,PO59668,4.7,1818,Warehouse Z,EUR
+2024-05-15,Organic Materials,Phosphate,Supplier E,159,9.89,1572.51,South America,17,Ordered,PO18869,4.5,1319,Warehouse Z,USD
+2024-07-21,Solvents,Sulfur,Supplier D,1610,8.93,14377.3,Asia,28,Delivered,PO66010,3.8,1229,Warehouse X,EUR
+2024-03-08,Chemicals,Ammonium Nitrate,Supplier E,1357,5.43,7368.51,Asia,9,Ordered,PO82151,3.2,1474,Warehouse X,GBP
+2024-12-09,Solvents,Ammonium Nitrate,Supplier C,1908,3.78,7212.24,North America,26,In Transit,PO18509,4.4,1865,Warehouse X,JPY
+2024-11-26,Additives,Phosphate,Supplier A,504,5.41,2726.64,Africa,8,In Transit,PO48382,4.1,1735,Warehouse Z,GBP
+2024-06-02,Chemicals,Ammonium Nitrate,Supplier E,1020,1.81,1846.2,Asia,28,In Transit,PO71710,3.6,1328,Warehouse Y,USD
+2024-08-22,Minerals,Sulfur,Supplier A,1312,3.09,4054.08,Africa,12,Delivered,PO27635,4.9,1492,Warehouse Y,GBP
+2024-06-10,Chemicals,Sulfur,Supplier A,979,2.97,2907.63,Asia,19,In Transit,PO25993,3.4,1547,Warehouse X,USD
+2024-02-07,Additives,Ammonium Nitrate,Supplier E,896,5.74,5143.04,Europe,30,In Transit,PO45968,3.1,1071,Warehouse Z,GBP
+2024-01-05,Chemicals,Urea,Supplier E,109,1.01,110.09,North America,27,Ordered,PO53150,3.3,801,Warehouse X,INR
+2024-08-22,Minerals,Urea,Supplier B,1543,9.26,14288.18,Africa,10,Delivered,PO79081,3.1,1431,Warehouse Z,USD
+2024-11-14,Additives,Sulfur,Supplier E,539,2.81,1514.59,North America,8,Delivered,PO64232,3.5,721,Warehouse Z,EUR
+2024-10-15,Organic Materials,Urea,Supplier E,521,2.17,1130.57,South America,11,In Transit,PO78766,4.5,750,Warehouse Y,JPY
+2024-02-21,Solvents,Phosphate,Supplier B,670,7.45,4991.5,North America,21,Delivered,PO37504,3.3,1013,Warehouse X,JPY
+2024-02-07,Organic Materials,Potash,Supplier B,1640,9.27,15202.8,Africa,17,Ordered,PO37400,3.7,1502,Warehouse Y,USD
+2024-10-02,Additives,Ammonium Nitrate,Supplier C,1541,8.6,13252.6,Africa,30,Ordered,PO90223,3.3,1518,Warehouse Y,INR
+2024-04-19,Additives,Phosphate,Supplier E,1756,3.91,6865.96,South America,15,Delivered,PO17626,3.5,972,Warehouse X,JPY
+2024-09-16,Additives,Sulfur,Supplier D,1730,1.2,2076.0,South America,30,In Transit,PO24326,4.2,1786,Warehouse X,INR
+2024-05-15,Minerals,Potash,Supplier A,228,6.28,1431.84,Asia,22,Delivered,PO84890,3.3,775,Warehouse Y,EUR
+2024-03-08,Additives,Sulfur,Supplier B,1282,9.26,11871.32,Africa,24,Ordered,PO92441,4.6,560,Warehouse X,JPY
+2024-06-27,Solvents,Potash,Supplier E,308,7.97,2454.76,North America,27,In Transit,PO79330,4.3,703,Warehouse X,GBP
+2024-02-05,Minerals,Phosphate,Supplier D,1737,8.62,14972.94,South America,26,Delivered,PO21491,3.8,608,Warehouse X,GBP
+2024-05-05,Additives,Potash,Supplier A,1885,8.75,16493.75,North America,27,Ordered,PO73394,3.3,639,Warehouse X,USD
+2024-07-08,Minerals,Urea,Supplier E,1199,9.65,11570.35,South America,6,Delivered,PO89269,4.8,1520,Warehouse Y,JPY
+2024-05-25,Solvents,Phosphate,Supplier D,482,4.36,2101.52,Africa,10,Delivered,PO47642,3.2,1888,Warehouse Y,INR
+2024-03-21,Solvents,Ammonium Nitrate,Supplier A,849,9.48,8048.52,South America,17,In Transit,PO65974,3.0,554,Warehouse Y,INR
+2024-08-12,Minerals,Sulfur,Supplier D,767,4.56,3497.52,Africa,25,Ordered,PO89802,4.9,866,Warehouse Z,EUR
+2024-10-05,Chemicals,Urea,Supplier B,503,1.91,960.73,South America,5,Delivered,PO51482,4.4,1283,Warehouse Z,JPY
+2024-12-26,Organic Materials,Ammonium Nitrate,Supplier E,1037,3.72,3857.64,Asia,30,Delivered,PO44034,4.2,1738,Warehouse X,INR
+2024-06-03,Additives,Potash,Supplier D,333,2.23,742.59,South America,7,In Transit,PO78864,3.6,1891,Warehouse X,INR
+2024-11-09,Organic Materials,Urea,Supplier D,637,2.42,1541.54,Asia,9,Delivered,PO85385,4.4,1169,Warehouse Y,JPY
+2024-11-30,Solvents,Ammonium Nitrate,Supplier E,1473,9.54,14052.42,Asia,20,Ordered,PO91689,4.6,812,Warehouse Y,GBP
+2024-09-27,Organic Materials,Phosphate,Supplier A,1866,8.13,15170.58,North America,24,Delivered,PO56380,4.0,1120,Warehouse Y,JPY
+2024-01-05,Chemicals,Potash,Supplier E,1102,9.65,10634.3,Africa,18,In Transit,PO27001,3.3,1773,Warehouse Z,GBP
+2024-12-07,Organic Materials,Ammonium Nitrate,Supplier D,1180,6.84,8071.2,South America,7,In Transit,PO90516,3.3,1776,Warehouse Y,USD
+2024-10-10,Organic Materials,Potash,Supplier C,1408,2.57,3618.56,South America,7,In Transit,PO83745,3.5,697,Warehouse Z,USD
+2024-06-02,Solvents,Ammonium Nitrate,Supplier A,741,9.72,7202.52,Europe,13,Delivered,PO75063,3.9,656,Warehouse Z,GBP
+2024-12-05,Solvents,Sulfur,Supplier D,1322,7.24,9571.28,South America,12,In Transit,PO78118,3.5,1853,Warehouse X,JPY
+2024-02-23,Additives,Phosphate,Supplier C,895,9.36,8377.2,Africa,16,Ordered,PO92818,3.3,1564,Warehouse Y,EUR
+2024-03-09,Minerals,Urea,Supplier A,1351,8.08,10916.08,Africa,7,Ordered,PO75239,4.4,1508,Warehouse Z,INR
+2024-05-15,Additives,Ammonium Nitrate,Supplier B,903,3.01,2718.03,South America,24,Delivered,PO74553,4.2,1454,Warehouse X,USD
+2024-02-29,Solvents,Potash,Supplier E,1302,6.3,8202.6,Asia,6,Delivered,PO33580,4.4,913,Warehouse Y,USD
+2024-02-24,Additives,Phosphate,Supplier A,333,2.58,859.14,Europe,28,Ordered,PO89876,4.2,1101,Warehouse Z,GBP
+2024-10-10,Organic Materials,Urea,Supplier A,812,3.76,3053.12,Africa,17,Ordered,PO40503,3.2,1855,Warehouse X,EUR
+2024-03-20,Organic Materials,Potash,Supplier D,820,7.2,5904.0,Europe,17,Ordered,PO48074,4.7,1519,Warehouse Y,JPY
+2024-05-19,Solvents,Phosphate,Supplier C,1831,2.15,3936.65,Europe,24,Ordered,PO35369,3.6,1504,Warehouse Y,EUR
+2024-05-24,Solvents,Potash,Supplier A,1037,7.56,7839.72,Africa,25,Ordered,PO10207,3.8,1533,Warehouse Y,GBP
+2024-11-05,Additives,Phosphate,Supplier E,1364,9.54,13012.56,Asia,21,Ordered,PO25493,4.1,1035,Warehouse Y,EUR
+2024-04-17,Additives,Urea,Supplier A,453,9.54,4321.62,Asia,14,Ordered,PO13143,3.4,1610,Warehouse Y,INR
+2024-06-24,Organic Materials,Urea,Supplier A,1766,4.52,7982.32,Africa,27,In Transit,PO70933,5.0,1203,Warehouse Z,JPY
+2024-04-14,Minerals,Potash,Supplier D,1479,9.95,14716.05,South America,24,Ordered,PO91980,5.0,1607,Warehouse Z,JPY
+2024-12-17,Minerals,Phosphate,Supplier A,1545,9.69,14971.05,South America,6,Ordered,PO25456,4.2,1619,Warehouse Y,EUR
+2024-11-20,Solvents,Ammonium Nitrate,Supplier C,1739,1.29,2243.31,Europe,29,Ordered,PO37175,4.7,536,Warehouse X,USD
+2024-05-15,Additives,Urea,Supplier D,709,6.42,4551.78,South America,10,Delivered,PO90649,5.0,564,Warehouse Y,INR
+2024-09-15,Minerals,Ammonium Nitrate,Supplier B,1981,9.29,18403.49,Europe,25,Delivered,PO64346,4.0,1381,Warehouse Y,JPY
+2024-09-07,Additives,Ammonium Nitrate,Supplier B,1358,9.71,13186.18,South America,20,In Transit,PO64269,3.9,743,Warehouse Z,JPY
+2024-05-08,Chemicals,Sulfur,Supplier D,1308,2.99,3910.92,Asia,19,Delivered,PO15962,4.3,1285,Warehouse X,USD
+2024-01-27,Organic Materials,Potash,Supplier C,273,6.09,1662.57,Asia,5,In Transit,PO53750,3.4,1421,Warehouse Y,EUR
+2024-02-17,Additives,Potash,Supplier D,1476,9.43,13918.68,Asia,11,Delivered,PO55829,3.1,1144,Warehouse Z,USD
+2024-11-20,Additives,Potash,Supplier D,374,2.27,848.98,South America,26,Delivered,PO83454,3.2,1270,Warehouse Y,GBP
+2024-08-04,Additives,Phosphate,Supplier D,741,7.71,5713.11,Europe,30,Delivered,PO93558,3.3,1406,Warehouse X,USD
+2024-05-21,Minerals,Urea,Supplier D,341,3.14,1070.74,Europe,21,Delivered,PO37831,4.7,1441,Warehouse X,INR
+2024-01-23,Additives,Urea,Supplier A,588,9.84,5785.92,Asia,14,In Transit,PO11480,4.8,573,Warehouse Z,JPY
+2024-01-02,Chemicals,Sulfur,Supplier E,725,2.51,1819.75,Asia,11,Ordered,PO93967,4.0,567,Warehouse Y,EUR
+2024-06-19,Minerals,Sulfur,Supplier B,339,8.97,3040.83,South America,6,In Transit,PO36370,3.3,862,Warehouse Y,GBP
+2024-03-07,Solvents,Sulfur,Supplier C,474,1.8,853.2,South America,30,Ordered,PO46913,4.8,1640,Warehouse Z,INR
+2024-11-22,Solvents,Ammonium Nitrate,Supplier A,864,7.38,6376.32,Europe,24,Delivered,PO43347,3.1,1850,Warehouse X,JPY
+2024-05-14,Organic Materials,Potash,Supplier B,1520,6.75,10260.0,North America,21,Delivered,PO18891,3.7,1120,Warehouse Z,JPY
+2024-03-23,Chemicals,Phosphate,Supplier E,389,8.98,3493.22,Europe,21,Ordered,PO50340,3.4,1946,Warehouse Z,EUR
+2024-08-14,Additives,Urea,Supplier D,1146,5.02,5752.92,South America,27,Ordered,PO49358,3.5,836,Warehouse Z,EUR
+2024-10-09,Chemicals,Phosphate,Supplier E,895,3.39,3034.05,Africa,12,Ordered,PO76412,4.2,1506,Warehouse X,EUR
+2024-12-27,Solvents,Potash,Supplier B,956,3.25,3107.0,South America,24,Delivered,PO82088,4.8,1382,Warehouse Y,GBP
+2024-08-06,Additives,Potash,Supplier B,1321,1.61,2126.81,South America,10,In Transit,PO52457,3.9,775,Warehouse Z,EUR
+2024-10-14,Chemicals,Urea,Supplier A,382,3.31,1264.42,Africa,26,Ordered,PO10803,3.2,1139,Warehouse Z,INR
+2024-01-05,Minerals,Ammonium Nitrate,Supplier A,1277,1.97,2515.69,South America,6,In Transit,PO24920,3.1,1965,Warehouse Z,EUR
+2024-02-27,Additives,Sulfur,Supplier C,885,1.01,893.85,Europe,16,Delivered,PO99893,4.1,1296,Warehouse Z,EUR
+2024-02-08,Minerals,Ammonium Nitrate,Supplier D,966,4.47,4318.02,Africa,12,Ordered,PO53684,3.3,1498,Warehouse X,INR
+2024-12-19,Chemicals,Potash,Supplier E,480,7.59,3643.2,North America,25,In Transit,PO54742,3.1,724,Warehouse Y,GBP
+2024-03-17,Additives,Potash,Supplier D,1096,9.72,10653.12,South America,5,Delivered,PO61910,4.0,1665,Warehouse Y,JPY
+2024-10-06,Organic Materials,Ammonium Nitrate,Supplier E,1401,8.96,12552.96,North America,10,Delivered,PO84569,3.1,1882,Warehouse Y,EUR
+2024-01-19,Organic Materials,Sulfur,Supplier D,1200,5.44,6528.0,North America,7,In Transit,PO90739,3.5,1504,Warehouse X,USD
+2024-07-08,Solvents,Sulfur,Supplier B,1520,4.41,6703.2,Africa,13,In Transit,PO13816,3.9,1851,Warehouse Y,INR
+2024-10-25,Additives,Potash,Supplier B,1982,5.91,11713.62,Asia,29,Delivered,PO33020,4.2,1634,Warehouse Y,USD
+2024-10-09,Chemicals,Sulfur,Supplier D,1421,1.91,2714.11,North America,17,Ordered,PO35430,3.8,1903,Warehouse X,JPY
+2024-03-16,Organic Materials,Sulfur,Supplier C,454,5.32,2415.28,North America,16,Delivered,PO53321,4.5,1604,Warehouse X,GBP
+2024-08-08,Solvents,Urea,Supplier B,1236,8.78,10852.08,Asia,26,In Transit,PO54294,4.8,1671,Warehouse Z,USD
+2024-03-06,Additives,Urea,Supplier C,441,6.86,3025.26,Europe,17,Delivered,PO98142,3.5,1462,Warehouse Y,USD
+2024-01-22,Organic Materials,Phosphate,Supplier B,1102,7.18,7912.36,Asia,17,Ordered,PO72797,3.2,1474,Warehouse X,INR
+2024-06-06,Additives,Ammonium Nitrate,Supplier A,691,2.46,1699.86,Europe,23,Delivered,PO72193,3.5,1651,Warehouse Z,GBP
+2024-07-05,Solvents,Potash,Supplier A,387,1.66,642.42,Europe,11,Ordered,PO14660,3.5,820,Warehouse Y,JPY
+2024-01-21,Chemicals,Sulfur,Supplier D,483,8.61,4158.63,Asia,21,In Transit,PO94626,3.8,1537,Warehouse Y,GBP
+2024-07-02,Solvents,Phosphate,Supplier E,744,3.65,2715.6,North America,5,Ordered,PO27793,3.4,614,Warehouse Z,GBP
+2024-04-17,Chemicals,Urea,Supplier A,1824,3.87,7058.88,Europe,28,Ordered,PO73110,4.8,1301,Warehouse X,JPY
+2024-12-15,Minerals,Sulfur,Supplier B,1023,9.56,9779.88,Asia,27,Delivered,PO30366,3.1,1039,Warehouse Z,USD
+2024-05-07,Organic Materials,Ammonium Nitrate,Supplier B,1368,1.67,2284.56,South America,7,Ordered,PO92208,4.2,1513,Warehouse X,USD
+2024-12-07,Minerals,Urea,Supplier A,209,2.53,528.77,North America,7,Ordered,PO70374,3.1,1710,Warehouse X,JPY
+2024-02-22,Chemicals,Potash,Supplier A,1872,4.38,8199.36,Europe,22,Delivered,PO80381,3.9,1273,Warehouse Z,USD
+2024-06-30,Additives,Sulfur,Supplier E,835,7.59,6337.65,Africa,14,Ordered,PO53923,3.4,1763,Warehouse X,GBP
+2024-10-13,Chemicals,Phosphate,Supplier A,119,5.92,704.48,North America,28,Delivered,PO70616,4.2,1885,Warehouse Z,USD
+2024-07-27,Chemicals,Potash,Supplier D,1092,9.08,9915.36,South America,22,In Transit,PO64257,3.4,1222,Warehouse Y,EUR
+2024-11-13,Additives,Sulfur,Supplier E,379,1.84,697.36,South America,23,Ordered,PO17342,3.7,1082,Warehouse Y,GBP
+2024-03-20,Minerals,Sulfur,Supplier A,499,6.35,3168.65,Asia,16,Ordered,PO78298,3.9,1156,Warehouse X,JPY
+2024-05-01,Organic Materials,Sulfur,Supplier B,1769,6.52,11533.88,South America,16,Delivered,PO49235,3.4,625,Warehouse Y,EUR
+2024-03-24,Chemicals,Sulfur,Supplier A,886,5.34,4731.24,Africa,13,Delivered,PO84048,3.7,557,Warehouse Z,GBP
+2024-03-31,Chemicals,Sulfur,Supplier D,1250,1.28,1600.0,Asia,12,Ordered,PO98892,3.5,1709,Warehouse Z,INR
+2024-07-30,Organic Materials,Potash,Supplier D,1135,9.48,10759.8,South America,24,Delivered,PO51353,3.7,592,Warehouse Z,USD
+2024-01-13,Chemicals,Ammonium Nitrate,Supplier B,1437,2.48,3563.76,Europe,11,Delivered,PO82768,3.1,762,Warehouse Y,USD
+2024-04-01,Organic Materials,Ammonium Nitrate,Supplier E,1113,9.01,10028.13,North America,19,Ordered,PO80239,4.1,1250,Warehouse Y,GBP
+2024-06-19,Organic Materials,Potash,Supplier B,937,2.41,2258.17,Africa,17,Delivered,PO12453,3.6,1214,Warehouse Y,EUR
+2024-07-29,Organic Materials,Ammonium Nitrate,Supplier A,1502,1.91,2868.82,Africa,23,Delivered,PO37297,3.2,1695,Warehouse Z,INR
+2024-12-08,Additives,Phosphate,Supplier B,1107,2.85,3154.95,Africa,5,Delivered,PO85680,3.9,555,Warehouse X,GBP
+2024-05-07,Minerals,Phosphate,Supplier E,951,2.71,2577.21,Europe,13,In Transit,PO99848,3.8,1780,Warehouse Z,USD
+2024-05-16,Minerals,Potash,Supplier C,1554,7.27,11297.58,South America,10,Delivered,PO53479,4.5,1198,Warehouse X,INR
+2024-03-22,Solvents,Phosphate,Supplier B,1820,7.5,13650.0,North America,18,Ordered,PO56346,3.4,1279,Warehouse X,USD
+2024-12-25,Additives,Potash,Supplier E,1009,7.57,7638.13,North America,21,Delivered,PO18678,3.6,699,Warehouse Z,EUR
+2024-02-25,Solvents,Phosphate,Supplier C,1100,3.39,3729.0,Europe,8,Delivered,PO29569,3.3,1376,Warehouse Z,EUR
+2024-07-14,Minerals,Urea,Supplier E,442,3.53,1560.26,Asia,22,In Transit,PO46760,4.6,1206,Warehouse Y,INR
+2024-01-20,Minerals,Potash,Supplier E,269,3.14,844.66,South America,7,Delivered,PO14085,4.9,1231,Warehouse X,USD
+2024-08-28,Minerals,Sulfur,Supplier C,1257,1.45,1822.65,Africa,21,In Transit,PO54453,4.8,1343,Warehouse X,JPY
+2024-04-23,Chemicals,Phosphate,Supplier B,163,6.15,1002.45,Asia,14,Delivered,PO59183,4.2,1219,Warehouse Y,EUR
+2024-04-12,Solvents,Urea,Supplier C,1729,8.56,14800.24,Europe,15,Delivered,PO92118,4.1,615,Warehouse X,INR
+2024-08-23,Additives,Potash,Supplier B,1658,2.38,3946.04,South America,8,In Transit,PO80028,3.5,1854,Warehouse X,INR
+2024-06-28,Solvents,Phosphate,Supplier E,551,4.25,2341.75,South America,30,Ordered,PO31753,3.8,1000,Warehouse Y,GBP
+2024-06-05,Minerals,Sulfur,Supplier B,698,4.85,3385.3,South America,21,Ordered,PO84839,4.0,1007,Warehouse Z,EUR
+2024-04-26,Additives,Phosphate,Supplier D,166,3.65,605.9,Asia,13,Ordered,PO89388,4.7,980,Warehouse Y,USD
+2024-04-24,Solvents,Urea,Supplier C,662,6.96,4607.52,Asia,22,Delivered,PO61061,3.4,1827,Warehouse Y,EUR
+2024-01-13,Minerals,Ammonium Nitrate,Supplier C,560,6.4,3584.0,Europe,30,In Transit,PO34560,3.9,1139,Warehouse Z,GBP
+2024-12-03,Minerals,Ammonium Nitrate,Supplier A,1201,2.8,3362.8,Africa,23,Delivered,PO88012,3.9,1713,Warehouse Z,JPY
+2024-04-08,Additives,Urea,Supplier E,691,1.23,849.93,Asia,13,In Transit,PO25315,3.0,673,Warehouse Y,INR
+2024-07-23,Organic Materials,Urea,Supplier E,444,2.54,1127.76,North America,27,Delivered,PO50407,3.9,1909,Warehouse Z,USD
+2024-06-17,Additives,Potash,Supplier B,1698,3.63,6163.74,Asia,19,Ordered,PO51222,4.7,634,Warehouse Y,INR
+2024-05-22,Organic Materials,Ammonium Nitrate,Supplier D,1036,1.74,1802.64,Asia,17,Delivered,PO14145,3.5,1124,Warehouse Z,GBP
+2024-02-05,Chemicals,Potash,Supplier E,1258,8.59,10806.22,South America,23,Delivered,PO45585,3.9,734,Warehouse Y,USD
+2024-05-22,Additives,Phosphate,Supplier D,1620,3.78,6123.6,North America,20,In Transit,PO64246,3.4,1191,Warehouse Y,EUR
+2024-06-28,Organic Materials,Urea,Supplier A,1682,4.58,7703.56,Africa,29,In Transit,PO21376,4.9,847,Warehouse X,JPY
+2024-11-24,Solvents,Potash,Supplier C,1668,5.4,9007.2,North America,12,In Transit,PO75149,4.9,540,Warehouse X,JPY
+2024-09-17,Minerals,Urea,Supplier D,1114,6.95,7742.3,Africa,29,Delivered,PO41148,4.8,1602,Warehouse X,GBP
+2024-07-23,Chemicals,Potash,Supplier E,1225,1.82,2229.5,Europe,15,In Transit,PO58704,4.8,1167,Warehouse X,INR
+2024-12-13,Additives,Phosphate,Supplier C,1146,5.9,6761.4,South America,29,In Transit,PO69232,3.8,576,Warehouse Z,JPY
+2024-10-01,Organic Materials,Phosphate,Supplier D,331,2.66,880.46,Europe,19,In Transit,PO49666,3.1,1443,Warehouse Z,INR
+2024-06-18,Solvents,Sulfur,Supplier D,1272,8.97,11409.84,Asia,26,Delivered,PO38329,5.0,1847,Warehouse Y,JPY
+2024-01-15,Organic Materials,Ammonium Nitrate,Supplier B,333,4.32,1438.56,Asia,19,In Transit,PO78825,4.5,1365,Warehouse Z,JPY
+2024-02-29,Additives,Sulfur,Supplier C,648,5.01,3246.48,South America,23,Delivered,PO49625,4.0,1663,Warehouse X,JPY
+2024-05-13,Organic Materials,Ammonium Nitrate,Supplier D,1687,3.37,5685.19,Europe,5,In Transit,PO32939,3.9,1554,Warehouse Y,INR
+2024-04-01,Additives,Phosphate,Supplier B,1212,5.19,6290.28,North America,20,Delivered,PO24710,3.8,1362,Warehouse Z,USD
+2024-10-24,Organic Materials,Potash,Supplier E,1786,3.04,5429.44,Europe,8,Ordered,PO59049,4.6,1046,Warehouse X,JPY
+2024-05-15,Minerals,Urea,Supplier D,851,3.42,2910.42,Africa,13,Delivered,PO14901,4.4,541,Warehouse X,INR
+2024-01-20,Additives,Phosphate,Supplier B,1210,1.55,1875.5,Asia,7,Delivered,PO36489,3.2,1925,Warehouse Y,USD
+2024-02-25,Additives,Phosphate,Supplier B,1784,7.77,13861.68,North America,17,Ordered,PO22137,4.0,1461,Warehouse X,INR
+2024-11-01,Chemicals,Potash,Supplier C,1649,7.01,11559.49,Asia,25,In Transit,PO68166,3.2,1704,Warehouse X,EUR
+2024-08-10,Minerals,Phosphate,Supplier B,185,1.77,327.45,Europe,30,Delivered,PO76321,4.5,545,Warehouse X,JPY
+2024-06-25,Additives,Phosphate,Supplier D,1656,4.09,6773.04,South America,12,Delivered,PO13268,4.4,1148,Warehouse Z,INR
+2024-06-09,Solvents,Potash,Supplier A,1572,5.87,9227.64,North America,26,In Transit,PO73263,3.8,1273,Warehouse Y,JPY
+2024-08-11,Organic Materials,Phosphate,Supplier E,1003,9.74,9769.22,South America,27,In Transit,PO75543,3.4,1668,Warehouse Y,EUR
+2024-11-06,Solvents,Ammonium Nitrate,Supplier D,1218,6.31,7685.58,Europe,12,In Transit,PO30195,3.7,1299,Warehouse Z,INR
+2024-09-18,Organic Materials,Ammonium Nitrate,Supplier D,547,5.98,3271.06,Africa,30,In Transit,PO34931,3.5,1160,Warehouse Y,USD
+2024-02-29,Organic Materials,Ammonium Nitrate,Supplier E,970,8.57,8312.9,South America,15,In Transit,PO54579,5.0,1672,Warehouse Z,JPY
+2024-07-16,Chemicals,Ammonium Nitrate,Supplier E,309,8.37,2586.33,South America,18,Ordered,PO73369,3.0,700,Warehouse Z,JPY
+2024-10-22,Additives,Phosphate,Supplier B,1607,4.77,7665.39,Europe,16,Delivered,PO78632,4.3,1500,Warehouse Z,EUR
+2024-04-07,Organic Materials,Urea,Supplier D,1799,5.82,10470.18,North America,21,Ordered,PO50679,3.3,704,Warehouse Z,JPY
+2024-05-10,Chemicals,Ammonium Nitrate,Supplier B,1438,8.8,12654.4,Europe,22,In Transit,PO52904,3.9,1914,Warehouse Y,GBP
+2024-01-23,Solvents,Ammonium Nitrate,Supplier C,1638,5.27,8632.26,South America,5,Delivered,PO28781,4.1,1882,Warehouse Y,USD
+2024-12-28,Chemicals,Phosphate,Supplier B,606,8.93,5411.58,Asia,27,Ordered,PO22878,4.2,921,Warehouse Z,GBP
+2024-08-11,Solvents,Sulfur,Supplier C,709,5.29,3750.61,Asia,13,Delivered,PO77652,5.0,1188,Warehouse Z,USD
+2024-01-01,Additives,Phosphate,Supplier A,1891,1.71,3233.61,South America,12,Ordered,PO98698,3.9,1517,Warehouse Y,EUR
+2024-09-23,Organic Materials,Potash,Supplier D,166,9.12,1513.92,North America,14,In Transit,PO27395,3.3,1529,Warehouse Z,GBP
+2024-10-02,Minerals,Ammonium Nitrate,Supplier C,1021,7.43,7586.03,South America,7,Ordered,PO36894,4.4,1866,Warehouse Z,GBP
+2024-12-17,Solvents,Potash,Supplier A,638,5.52,3521.76,Asia,17,In Transit,PO14791,3.4,1195,Warehouse Z,EUR
+2024-12-09,Organic Materials,Ammonium Nitrate,Supplier E,813,9.1,7398.3,Africa,26,Ordered,PO70210,4.7,841,Warehouse Z,USD
+2024-04-10,Minerals,Sulfur,Supplier B,1865,8.2,15293.0,South America,28,Ordered,PO60801,4.3,1759,Warehouse Y,JPY
+2024-07-05,Minerals,Urea,Supplier A,1772,7.1,12581.2,South America,15,In Transit,PO78464,4.4,1113,Warehouse Y,GBP
+2024-08-08,Solvents,Sulfur,Supplier C,278,6.58,1829.24,Africa,7,Ordered,PO25182,3.0,1244,Warehouse X,GBP
+2024-02-05,Organic Materials,Phosphate,Supplier D,999,2.08,2077.92,North America,22,Delivered,PO10538,4.3,1392,Warehouse X,EUR
+2024-12-06,Minerals,Phosphate,Supplier E,1872,7.81,14620.32,Europe,10,In Transit,PO50760,3.8,913,Warehouse X,JPY
+2024-06-18,Chemicals,Potash,Supplier E,340,2.56,870.4,Asia,20,Delivered,PO15771,4.4,1517,Warehouse X,USD
+2024-11-15,Chemicals,Potash,Supplier A,1688,9.86,16643.68,Asia,15,Delivered,PO87894,4.1,1801,Warehouse X,INR
+2024-06-09,Organic Materials,Phosphate,Supplier A,1762,9.75,17179.5,Europe,16,Delivered,PO21413,3.6,654,Warehouse X,USD
+2024-12-05,Additives,Phosphate,Supplier B,585,8.28,4843.8,Europe,11,Delivered,PO53684,4.5,1597,Warehouse X,EUR
+2024-03-04,Chemicals,Phosphate,Supplier E,529,2.14,1132.06,Europe,23,Delivered,PO71194,4.4,938,Warehouse Z,GBP
+2024-06-02,Solvents,Ammonium Nitrate,Supplier E,1760,4.81,8465.6,Europe,13,Ordered,PO16047,4.2,1088,Warehouse X,JPY
+2024-09-16,Organic Materials,Sulfur,Supplier B,1610,9.89,15922.9,Asia,10,Ordered,PO23513,4.2,1043,Warehouse X,GBP
+2024-06-07,Minerals,Ammonium Nitrate,Supplier D,1304,4.92,6415.68,South America,28,Ordered,PO78233,3.4,597,Warehouse X,EUR
+2024-12-07,Chemicals,Urea,Supplier B,1511,9.98,15079.78,South America,26,In Transit,PO96374,4.4,1108,Warehouse Y,USD
+2024-07-28,Organic Materials,Ammonium Nitrate,Supplier C,818,6.65,5439.7,Africa,11,In Transit,PO50957,4.2,1674,Warehouse Z,GBP
+2024-06-16,Organic Materials,Phosphate,Supplier C,1863,8.51,15854.13,South America,20,Ordered,PO12946,3.7,1323,Warehouse X,INR
+2024-07-25,Additives,Ammonium Nitrate,Supplier A,1555,3.32,5162.6,North America,28,Ordered,PO85701,4.9,962,Warehouse Z,EUR
+2024-12-22,Minerals,Potash,Supplier B,1349,9.2,12410.8,North America,11,In Transit,PO50913,4.0,1779,Warehouse X,USD
+2024-05-31,Minerals,Phosphate,Supplier B,1395,9.23,12875.85,Europe,12,In Transit,PO93735,4.8,688,Warehouse Y,JPY
+2024-10-10,Minerals,Sulfur,Supplier A,976,1.6,1561.6,Africa,28,Delivered,PO37504,3.7,1969,Warehouse Z,USD
+2024-03-06,Solvents,Ammonium Nitrate,Supplier D,439,4.49,1971.11,Asia,12,Ordered,PO52058,3.1,1684,Warehouse Z,INR
+2024-04-08,Organic Materials,Phosphate,Supplier B,1361,4.58,6233.38,South America,13,Ordered,PO36287,3.8,694,Warehouse X,GBP
+2024-08-03,Solvents,Potash,Supplier E,385,3.94,1516.9,South America,11,In Transit,PO35237,3.9,1712,Warehouse X,USD
+2024-12-06,Solvents,Potash,Supplier B,1707,3.49,5957.43,Asia,12,In Transit,PO47560,3.1,1189,Warehouse Y,INR
+2024-07-13,Organic Materials,Ammonium Nitrate,Supplier D,523,5.12,2677.76,North America,11,Ordered,PO46261,3.7,1059,Warehouse Y,INR
+2024-12-12,Minerals,Phosphate,Supplier B,1766,8.86,15646.76,Europe,12,Delivered,PO79766,4.3,637,Warehouse X,INR
+2024-03-30,Organic Materials,Sulfur,Supplier E,523,8.08,4225.84,Africa,24,In Transit,PO51831,4.4,1660,Warehouse Y,EUR
+2024-11-11,Additives,Urea,Supplier C,1749,6.61,11560.89,North America,16,Delivered,PO67817,4.1,1587,Warehouse Y,EUR
+2024-10-18,Organic Materials,Potash,Supplier C,221,5.7,1259.7,Africa,9,Ordered,PO97965,4.5,1473,Warehouse X,USD
+2024-06-03,Organic Materials,Urea,Supplier D,1267,4.78,6056.26,Europe,29,Delivered,PO25420,3.3,1374,Warehouse X,USD
+2024-07-26,Chemicals,Sulfur,Supplier D,818,4.73,3869.14,South America,8,Ordered,PO45737,3.7,929,Warehouse X,USD
+2024-10-07,Additives,Ammonium Nitrate,Supplier E,1190,2.33,2772.7,Europe,8,Delivered,PO29571,4.1,1211,Warehouse X,GBP
+2024-01-01,Chemicals,Potash,Supplier C,675,6.29,4245.75,North America,7,In Transit,PO30643,4.3,657,Warehouse Z,GBP
+2024-06-04,Minerals,Urea,Supplier C,1322,7.83,10351.26,South America,26,In Transit,PO45866,4.5,1834,Warehouse Z,USD
+2024-05-26,Minerals,Potash,Supplier C,1203,9.46,11380.38,Europe,26,Ordered,PO25002,4.5,1118,Warehouse Y,JPY
+2024-04-17,Additives,Urea,Supplier C,444,9.32,4138.08,South America,20,In Transit,PO11999,4.7,1533,Warehouse Y,EUR
+2024-08-08,Solvents,Phosphate,Supplier E,762,6.06,4617.72,South America,24,Delivered,PO91650,4.4,1114,Warehouse Y,EUR
+2024-10-23,Organic Materials,Phosphate,Supplier D,1541,1.91,2943.31,Africa,5,Delivered,PO83351,4.5,1386,Warehouse X,INR
+2024-11-06,Chemicals,Ammonium Nitrate,Supplier D,699,3.57,2495.43,Africa,29,Delivered,PO77378,4.5,1858,Warehouse Y,USD
+2024-12-01,Additives,Sulfur,Supplier A,692,5.82,4027.44,North America,22,Ordered,PO23418,3.6,1605,Warehouse Z,GBP
+2024-06-13,Chemicals,Potash,Supplier D,1272,4.09,5202.48,Europe,6,Delivered,PO37076,4.8,1141,Warehouse X,INR
+2024-08-26,Organic Materials,Sulfur,Supplier C,647,4.7,3040.9,Asia,20,Delivered,PO81110,4.0,909,Warehouse X,EUR
+2024-08-14,Solvents,Urea,Supplier B,1857,4.45,8263.65,Europe,16,In Transit,PO55916,3.8,1348,Warehouse Y,USD
+2024-08-14,Chemicals,Ammonium Nitrate,Supplier C,1153,5.37,6191.61,South America,24,Ordered,PO82006,3.1,1323,Warehouse Z,EUR
+2024-12-11,Additives,Phosphate,Supplier C,1943,6.48,12590.64,North America,15,Delivered,PO51744,3.7,1014,Warehouse Y,JPY
+2024-04-19,Organic Materials,Phosphate,Supplier D,1491,1.34,1997.94,North America,20,Delivered,PO45527,3.9,1779,Warehouse X,INR
+2024-09-18,Organic Materials,Ammonium Nitrate,Supplier A,1769,3.48,6156.12,Asia,23,In Transit,PO28554,4.0,1555,Warehouse Y,USD
+2024-08-30,Solvents,Potash,Supplier E,295,2.29,675.55,South America,13,Ordered,PO47128,4.7,1428,Warehouse X,JPY
+2024-03-27,Additives,Sulfur,Supplier B,377,6.48,2442.96,South America,20,Ordered,PO85246,3.9,1875,Warehouse X,JPY
+2024-12-03,Organic Materials,Urea,Supplier B,1636,7.24,11844.64,North America,10,In Transit,PO42089,4.1,1621,Warehouse Z,GBP
+2024-02-13,Chemicals,Sulfur,Supplier A,1709,1.35,2307.15,North America,29,In Transit,PO32449,4.7,869,Warehouse Z,USD
+2024-05-25,Minerals,Phosphate,Supplier C,942,9.01,8487.42,Asia,21,In Transit,PO19337,4.8,538,Warehouse Y,GBP
+2024-09-20,Additives,Ammonium Nitrate,Supplier E,1981,3.98,7884.38,Asia,13,In Transit,PO50812,3.9,1785,Warehouse Y,JPY
+2024-12-05,Chemicals,Phosphate,Supplier E,221,3.14,693.94,Africa,17,Ordered,PO90381,3.7,1940,Warehouse Y,USD
+2024-11-20,Solvents,Phosphate,Supplier E,667,7.71,5142.57,North America,12,Ordered,PO54399,4.3,1557,Warehouse Z,USD
+2024-11-13,Solvents,Urea,Supplier D,1875,9.29,17418.75,Asia,29,Delivered,PO80854,4.4,882,Warehouse Z,USD
+2024-06-20,Organic Materials,Potash,Supplier C,1443,9.07,13088.01,South America,23,Delivered,PO68149,5.0,1681,Warehouse Z,USD
+2024-02-17,Solvents,Potash,Supplier B,359,1.18,423.62,Africa,9,Delivered,PO16648,4.8,1522,Warehouse Z,GBP
+2024-04-30,Minerals,Urea,Supplier B,1536,8.36,12840.96,North America,6,Ordered,PO27049,3.4,936,Warehouse Z,EUR
+2024-12-10,Chemicals,Ammonium Nitrate,Supplier C,1873,3.73,6986.29,Asia,21,Delivered,PO13800,4.8,1853,Warehouse Y,USD
+2024-06-07,Additives,Sulfur,Supplier B,371,3.52,1305.92,North America,30,Delivered,PO71700,3.2,1457,Warehouse X,INR
+2024-04-25,Organic Materials,Ammonium Nitrate,Supplier D,611,5.42,3311.62,Africa,18,In Transit,PO98538,3.8,1048,Warehouse Y,USD
+2024-04-11,Additives,Sulfur,Supplier E,399,7.27,2900.73,Europe,20,Ordered,PO16613,3.4,1806,Warehouse Y,GBP
+2024-03-16,Chemicals,Potash,Supplier B,1556,1.88,2925.28,North America,22,In Transit,PO23884,4.9,1591,Warehouse Y,USD
+2024-01-13,Minerals,Phosphate,Supplier D,759,8.82,6694.38,North America,6,Delivered,PO60279,3.2,1758,Warehouse Z,EUR
+2024-01-24,Chemicals,Phosphate,Supplier E,1796,2.21,3969.16,North America,21,Ordered,PO17051,3.3,1388,Warehouse Z,JPY
+2024-05-05,Chemicals,Ammonium Nitrate,Supplier C,606,9.77,5920.62,North America,16,In Transit,PO21287,3.2,1659,Warehouse Z,GBP
+2024-08-31,Organic Materials,Urea,Supplier C,1659,4.99,8278.41,Asia,17,Delivered,PO65897,3.3,1988,Warehouse Z,USD
+2024-11-08,Additives,Sulfur,Supplier D,1827,8.43,15401.61,Europe,26,Delivered,PO61369,3.3,1783,Warehouse Z,USD
+2024-02-07,Chemicals,Phosphate,Supplier D,1484,3.42,5075.28,South America,29,Ordered,PO33459,3.4,622,Warehouse Y,USD
+2024-08-21,Chemicals,Ammonium Nitrate,Supplier D,904,4.75,4294.0,North America,10,In Transit,PO88134,4.9,1569,Warehouse X,JPY
+2024-07-31,Minerals,Urea,Supplier B,1102,6.81,7504.62,South America,19,Delivered,PO87693,3.0,910,Warehouse Z,USD
+2024-11-18,Solvents,Potash,Supplier C,391,2.69,1051.79,Asia,8,Delivered,PO92505,3.8,1246,Warehouse X,EUR
+2024-10-21,Minerals,Urea,Supplier B,1282,2.9,3717.8,Europe,27,Ordered,PO68436,4.4,1447,Warehouse Z,GBP
+2024-04-09,Additives,Potash,Supplier B,1395,8.42,11745.9,Africa,21,Ordered,PO90781,4.9,802,Warehouse X,GBP
+2024-12-22,Additives,Ammonium Nitrate,Supplier E,650,7.67,4985.5,Africa,19,Ordered,PO56612,3.9,992,Warehouse Y,USD
+2024-07-15,Organic Materials,Urea,Supplier D,1385,7.84,10858.4,Africa,15,Delivered,PO50952,3.8,808,Warehouse Z,JPY
+2024-09-10,Solvents,Ammonium Nitrate,Supplier B,948,8.8,8342.4,Africa,27,Delivered,PO53559,4.5,1903,Warehouse Y,GBP
+2024-07-23,Additives,Potash,Supplier E,868,8.39,7282.52,Africa,5,In Transit,PO35971,3.0,1114,Warehouse Z,INR
+2024-05-04,Solvents,Phosphate,Supplier A,1025,5.64,5781.0,Europe,5,In Transit,PO97932,3.4,1391,Warehouse X,JPY
+2024-03-16,Minerals,Phosphate,Supplier E,254,2.43,617.22,North America,26,Delivered,PO79924,3.0,1340,Warehouse Y,JPY
+2024-12-01,Additives,Potash,Supplier A,1397,3.8,5308.6,Africa,11,Delivered,PO20295,4.6,1152,Warehouse Z,USD
+2024-12-18,Chemicals,Sulfur,Supplier A,1727,5.56,9602.12,North America,17,Delivered,PO71039,4.7,631,Warehouse Y,GBP
+2024-01-03,Additives,Sulfur,Supplier A,1902,2.22,4222.44,South America,23,Ordered,PO84421,4.0,1798,Warehouse Y,GBP
+2024-02-24,Solvents,Phosphate,Supplier A,1674,8.66,14496.84,North America,8,Ordered,PO27274,3.7,916,Warehouse X,GBP
+2024-08-05,Additives,Phosphate,Supplier D,290,8.91,2583.9,South America,15,In Transit,PO22178,4.2,1344,Warehouse Y,GBP
+2024-04-22,Organic Materials,Urea,Supplier B,925,1.26,1165.5,North America,16,In Transit,PO71377,4.3,1046,Warehouse Z,JPY
+2024-03-31,Chemicals,Urea,Supplier B,1155,2.73,3153.15,South America,24,In Transit,PO22748,4.6,1087,Warehouse Z,JPY
+2024-12-22,Organic Materials,Phosphate,Supplier A,1635,8.5,13897.5,North America,13,Ordered,PO69714,4.0,1823,Warehouse Y,USD
+2024-09-22,Minerals,Sulfur,Supplier B,669,8.53,5706.57,North America,10,Ordered,PO50683,4.3,828,Warehouse Y,EUR
+2024-08-25,Additives,Urea,Supplier A,1522,3.25,4946.5,Europe,22,In Transit,PO99715,4.1,1025,Warehouse Z,USD
+2024-01-26,Additives,Potash,Supplier B,1896,5.11,9688.56,South America,13,Ordered,PO94465,4.1,1906,Warehouse Y,GBP
+2024-10-12,Minerals,Urea,Supplier E,855,9.26,7917.3,North America,12,In Transit,PO71000,3.9,1731,Warehouse X,JPY
+2024-05-07,Organic Materials,Urea,Supplier D,1031,7.34,7567.54,Europe,13,Delivered,PO71675,4.1,983,Warehouse X,EUR
+2024-03-03,Chemicals,Urea,Supplier C,1099,3.47,3813.53,Europe,20,Delivered,PO40368,4.8,1331,Warehouse Y,JPY
+2024-08-21,Organic Materials,Ammonium Nitrate,Supplier A,770,8.41,6475.7,South America,24,Ordered,PO39333,3.6,988,Warehouse Z,INR
+2024-03-09,Solvents,Potash,Supplier E,1291,5.55,7165.05,North America,15,Delivered,PO28837,4.6,732,Warehouse X,USD
+2024-08-25,Organic Materials,Phosphate,Supplier E,105,6.72,705.6,Europe,16,In Transit,PO90863,3.5,807,Warehouse Y,USD
+2024-12-07,Chemicals,Sulfur,Supplier D,1879,2.11,3964.69,Africa,10,In Transit,PO43823,3.7,893,Warehouse Y,USD
+2024-09-28,Additives,Sulfur,Supplier D,1685,1.28,2156.8,Africa,20,Ordered,PO57638,3.6,556,Warehouse Y,JPY
+2024-10-13,Organic Materials,Phosphate,Supplier A,1834,4.35,7977.9,Africa,18,In Transit,PO61390,4.7,1002,Warehouse X,USD
+2024-10-31,Minerals,Ammonium Nitrate,Supplier A,1600,6.35,10160.0,North America,11,Delivered,PO34032,3.3,1135,Warehouse Z,JPY
+2024-06-11,Chemicals,Sulfur,Supplier E,290,2.6,754.0,Africa,18,In Transit,PO97186,3.6,1450,Warehouse X,INR
+2024-08-14,Additives,Urea,Supplier E,1596,8.83,14092.68,Asia,27,Delivered,PO53296,4.9,1494,Warehouse Z,JPY
+2024-11-09,Chemicals,Sulfur,Supplier D,1038,6.28,6518.64,South America,29,Ordered,PO52567,4.2,1646,Warehouse Z,INR
+2024-09-15,Minerals,Potash,Supplier A,1400,4.15,5810.0,Asia,16,Ordered,PO69412,3.3,1393,Warehouse Y,JPY
+2024-08-06,Solvents,Potash,Supplier A,1460,2.47,3606.2,Asia,16,In Transit,PO73898,4.1,1364,Warehouse Z,EUR
+2024-10-07,Chemicals,Phosphate,Supplier E,1528,9.05,13828.4,Africa,17,Delivered,PO13966,3.4,1824,Warehouse Z,EUR
+2024-08-16,Chemicals,Ammonium Nitrate,Supplier C,833,7.74,6447.42,South America,13,Ordered,PO18567,3.4,575,Warehouse Z,GBP
+2024-03-22,Organic Materials,Ammonium Nitrate,Supplier E,1841,7.2,13255.2,Europe,19,In Transit,PO72303,4.4,913,Warehouse Y,GBP
+2024-08-31,Minerals,Sulfur,Supplier C,229,3.57,817.53,Asia,10,In Transit,PO24796,4.8,826,Warehouse X,JPY
+2024-08-18,Minerals,Ammonium Nitrate,Supplier A,1729,4.48,7745.92,Europe,23,Delivered,PO56064,4.6,1058,Warehouse Y,GBP
+2024-05-12,Solvents,Ammonium Nitrate,Supplier E,1194,2.47,2949.18,Europe,9,Delivered,PO72737,3.3,779,Warehouse Z,INR
+2024-05-06,Minerals,Sulfur,Supplier D,914,6.15,5621.1,North America,23,Ordered,PO70455,3.2,559,Warehouse Z,INR
+2024-11-22,Chemicals,Potash,Supplier B,546,9.68,5285.28,South America,26,Delivered,PO32387,5.0,1029,Warehouse Y,INR
+2024-05-21,Solvents,Urea,Supplier A,979,8.71,8527.09,South America,12,Delivered,PO46996,4.1,1068,Warehouse Y,USD
+2024-09-23,Minerals,Phosphate,Supplier A,1789,6.83,12218.87,Asia,8,Delivered,PO55693,3.9,1848,Warehouse Z,USD
+2024-09-05,Solvents,Potash,Supplier E,533,7.1,3784.3,North America,28,Delivered,PO89225,3.7,1627,Warehouse Z,INR
+2024-11-16,Minerals,Ammonium Nitrate,Supplier B,1113,3.42,3806.46,North America,13,Ordered,PO85324,3.4,860,Warehouse Z,EUR
+2024-05-02,Minerals,Ammonium Nitrate,Supplier B,649,4.69,3043.81,North America,30,Ordered,PO26697,4.4,1819,Warehouse Y,JPY
+2024-05-20,Organic Materials,Sulfur,Supplier B,761,1.18,897.98,South America,12,Ordered,PO76577,4.3,586,Warehouse Y,GBP
+2024-08-13,Minerals,Phosphate,Supplier E,1796,8.02,14403.92,South America,22,In Transit,PO23491,5.0,1979,Warehouse X,JPY
+2024-02-09,Solvents,Urea,Supplier E,680,7.91,5378.8,Africa,18,In Transit,PO63174,3.3,1495,Warehouse Z,EUR
+2024-12-31,Chemicals,Sulfur,Supplier C,791,1.08,854.28,South America,17,In Transit,PO24022,3.9,540,Warehouse X,EUR
+2024-05-26,Organic Materials,Sulfur,Supplier C,1220,9.2,11224.0,South America,11,Delivered,PO52712,5.0,613,Warehouse Y,JPY
+2024-04-30,Minerals,Urea,Supplier C,1283,6.83,8762.89,North America,9,Delivered,PO82895,4.1,671,Warehouse Z,JPY
+2024-05-19,Minerals,Urea,Supplier D,367,6.41,2352.47,Europe,30,Ordered,PO95124,3.2,1142,Warehouse Z,INR
+2024-06-20,Solvents,Ammonium Nitrate,Supplier A,1259,1.08,1359.72,Asia,28,Ordered,PO19296,3.0,1732,Warehouse X,INR
+2024-06-12,Organic Materials,Sulfur,Supplier C,1845,3.27,6033.15,Europe,9,Delivered,PO49599,4.9,1110,Warehouse Z,GBP
+2024-10-03,Minerals,Potash,Supplier D,1093,8.25,9017.25,Asia,20,In Transit,PO79828,4.5,630,Warehouse Y,EUR
+2024-02-11,Chemicals,Potash,Supplier D,1714,3.75,6427.5,Africa,30,In Transit,PO70420,4.9,1333,Warehouse X,JPY
+2024-03-11,Chemicals,Sulfur,Supplier E,803,9.7,7789.1,South America,5,In Transit,PO62535,4.9,1244,Warehouse X,EUR
+2024-03-18,Minerals,Urea,Supplier B,1931,6.78,13092.18,Asia,10,In Transit,PO87402,3.3,1875,Warehouse X,EUR
+2024-04-28,Chemicals,Phosphate,Supplier B,1497,4.81,7200.57,Asia,18,Ordered,PO64190,4.9,1846,Warehouse X,EUR
+2024-07-15,Organic Materials,Urea,Supplier C,1661,4.39,7291.79,Asia,20,In Transit,PO41270,4.1,684,Warehouse Z,USD
+2024-12-21,Minerals,Urea,Supplier A,199,4.14,823.86,Asia,9,In Transit,PO91379,4.0,1312,Warehouse Y,JPY
+2024-03-19,Solvents,Phosphate,Supplier A,194,3.27,634.38,South America,25,Delivered,PO41941,4.3,1983,Warehouse X,JPY
+2024-12-27,Organic Materials,Urea,Supplier A,303,5.2,1575.6,Europe,21,Delivered,PO81820,3.6,787,Warehouse Y,INR
+2024-04-19,Chemicals,Phosphate,Supplier D,1382,7.09,9798.38,Asia,22,Ordered,PO30843,4.8,983,Warehouse Y,USD
+2024-02-02,Minerals,Sulfur,Supplier D,1705,8.42,14356.1,North America,28,In Transit,PO73225,4.9,729,Warehouse Y,INR
+2024-07-31,Organic Materials,Phosphate,Supplier D,1813,4.57,8285.41,Asia,15,Ordered,PO60307,4.5,1669,Warehouse X,JPY
+2024-07-27,Chemicals,Potash,Supplier E,1041,1.92,1998.72,South America,30,In Transit,PO18658,5.0,1524,Warehouse X,JPY
+2024-06-18,Minerals,Phosphate,Supplier D,133,5.6,744.8,North America,20,Delivered,PO54658,4.3,747,Warehouse Z,USD
+2024-10-04,Additives,Urea,Supplier A,354,6.96,2463.84,South America,14,In Transit,PO37294,4.6,1568,Warehouse X,GBP
+2024-08-26,Solvents,Sulfur,Supplier A,1856,8.59,15943.04,Africa,13,Delivered,PO87459,4.5,1860,Warehouse X,EUR
+2024-07-31,Chemicals,Phosphate,Supplier B,423,4.37,1848.51,South America,22,Ordered,PO66511,4.8,1688,Warehouse Y,INR
+2024-02-01,Chemicals,Urea,Supplier A,1003,6.83,6850.49,North America,23,In Transit,PO67062,3.7,1575,Warehouse Y,INR
+2024-04-15,Additives,Phosphate,Supplier D,1034,6.48,6700.32,Europe,6,Ordered,PO84345,3.2,1015,Warehouse Y,INR
+2024-08-03,Additives,Sulfur,Supplier D,101,3.69,372.69,North America,17,Ordered,PO54852,4.0,1516,Warehouse Z,USD
+2024-07-18,Organic Materials,Sulfur,Supplier C,976,1.97,1922.72,Europe,8,Ordered,PO81372,3.1,684,Warehouse X,EUR
+2024-10-26,Solvents,Potash,Supplier E,514,1.57,806.98,North America,27,Delivered,PO40953,4.4,987,Warehouse X,INR
+2024-12-22,Solvents,Sulfur,Supplier A,1510,9.9,14949.0,Asia,10,In Transit,PO32686,3.2,1728,Warehouse Z,GBP
+2024-01-11,Chemicals,Urea,Supplier E,1962,6.77,13282.74,South America,6,Ordered,PO96849,3.0,750,Warehouse X,GBP
+2024-10-21,Additives,Sulfur,Supplier A,370,8.75,3237.5,Africa,11,Delivered,PO97766,4.2,1141,Warehouse X,JPY
+2024-07-13,Solvents,Sulfur,Supplier B,1906,3.35,6385.1,Europe,13,Ordered,PO20209,3.4,1174,Warehouse Y,EUR
+2024-09-01,Minerals,Urea,Supplier B,1431,7.4,10589.4,Europe,20,Ordered,PO85260,3.7,1696,Warehouse Y,JPY
+2024-01-04,Solvents,Urea,Supplier E,718,9.03,6483.54,Asia,25,Delivered,PO73783,3.7,1298,Warehouse X,JPY
+2024-06-29,Chemicals,Sulfur,Supplier D,425,3.69,1568.25,Asia,8,Ordered,PO24984,4.2,983,Warehouse Z,EUR
+2024-06-01,Solvents,Sulfur,Supplier C,1890,2.35,4441.5,North America,19,Ordered,PO87616,3.4,1366,Warehouse X,JPY
+2024-07-18,Organic Materials,Phosphate,Supplier A,1895,7.89,14951.55,Europe,28,Delivered,PO88128,4.1,946,Warehouse X,EUR
+2024-08-02,Additives,Sulfur,Supplier A,661,9.1,6015.1,South America,15,Ordered,PO70674,4.6,795,Warehouse Z,GBP
+2024-10-02,Chemicals,Potash,Supplier C,291,8.25,2400.75,North America,13,In Transit,PO52647,4.5,718,Warehouse X,EUR
+2024-10-06,Chemicals,Potash,Supplier E,1440,8.22,11836.8,Asia,16,Ordered,PO82756,3.4,858,Warehouse Y,INR
+2024-11-04,Additives,Potash,Supplier E,838,6.4,5363.2,Europe,16,In Transit,PO22799,3.2,938,Warehouse Y,USD
+2024-04-22,Additives,Potash,Supplier A,612,6.94,4247.28,Africa,22,Delivered,PO68355,4.7,1062,Warehouse Y,GBP
+2024-09-06,Additives,Sulfur,Supplier B,268,7.13,1910.84,Africa,22,Ordered,PO33091,4.4,1400,Warehouse Y,USD
+2024-04-22,Chemicals,Phosphate,Supplier C,861,7.49,6448.89,Europe,30,In Transit,PO50374,4.9,1336,Warehouse X,GBP
+2024-05-19,Additives,Urea,Supplier A,1460,6.9,10074.0,South America,13,In Transit,PO63188,5.0,1020,Warehouse Z,INR
+2024-08-11,Additives,Sulfur,Supplier B,1950,9.98,19461.0,Europe,16,In Transit,PO19123,3.8,1707,Warehouse Y,USD
+2024-09-05,Chemicals,Ammonium Nitrate,Supplier E,1428,3.33,4755.24,South America,5,Ordered,PO88415,4.0,614,Warehouse X,INR
+2024-01-15,Chemicals,Sulfur,Supplier B,438,4.77,2089.26,Asia,18,In Transit,PO24253,4.2,1504,Warehouse Z,INR
+2024-07-18,Organic Materials,Potash,Supplier D,206,4.49,924.94,South America,8,Ordered,PO99850,4.0,1592,Warehouse Z,GBP
+2024-06-21,Solvents,Ammonium Nitrate,Supplier A,911,1.32,1202.52,South America,16,Delivered,PO88172,3.1,1267,Warehouse Z,JPY
+2024-12-08,Minerals,Sulfur,Supplier C,1381,7.37,10177.97,Europe,26,Delivered,PO59664,4.3,1932,Warehouse Z,INR
