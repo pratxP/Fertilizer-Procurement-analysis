@@ -102,9 +102,9 @@ This repository contains a detailed analysis of fertilizer procurement data visu
 ---
 
 ### Future Enhancements
-**Incorporate predictive models for demand forecasting.**
-**Integrate external datasets for market trend analysis.**
-**Automate data updates for real-time insights.**
+-**Incorporate predictive models for demand forecasting.**
+-**Integrate external datasets for market trend analysis.**
+-**Automate data updates for real-time insights.**
 
 ---
 
