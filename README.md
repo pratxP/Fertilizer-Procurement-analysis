@@ -99,5 +99,26 @@ This repository contains a detailed analysis of fertilizer procurement data visu
 ![Screenshot 2025-01-11 143022](https://github.com/user-attachments/assets/0d6ed7c9-362f-4467-810b-4c1322d80f3c)
 ![Screenshot 2025-01-11 143034](https://github.com/user-attachments/assets/352aedf3-7b1c-4f4d-8a09-7afc5cd3b1a5)
 
+---
 
+### Future Enhancements
+**Incorporate predictive models for demand forecasting.**
+**Integrate external datasets for market trend analysis.**
+**Automate data updates for real-time insights.**
+
+---
+
+### Contributing
+**Contributions are welcome! Feel free to open issues or submit pull requests for enhancements or bug fixes.**
+
+---
+
+### License
+**This project is licensed under the MIT License.**
+
+---
+
+## Contact
+
+For questions or support, please contact [pratyaksh@gmail.com].
 
